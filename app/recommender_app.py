@@ -45,15 +45,12 @@ def show_landing_page():
     if st.button("Recommend!", type="primary"):
         if song_input and artist_input:
             try:
-                recommendations = get_song_recommendations(
-                    song_input, 
-                    artist_input, 
-                    n_recommendations=5
-                )
+                recommendations = get_song_recommendations(song_input, artist_input)
                 
                 if recommendations is not None and not recommendations.empty:
                     st.session_state.recommendations = recommendations
                     st.session_state.page = 'selection'
+                    st.rerun()
                 else:
                     st.error("No recommendations found. Please try a different song.")
             except Exception as e:
