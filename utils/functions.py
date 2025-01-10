@@ -6,6 +6,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import time
 from sklearn.cluster import KMeans
+import streamlit as st
 
 def scrape_billboard_hot_100():
     response = requests.get("https://www.billboard.com/charts/hot-100/")
@@ -80,8 +81,8 @@ def clean_million_songs_df(df):
     return df_clean
 
 def search_track_info(input_title, input_artist):
-    client_id = os.getenv("SPOTIFY_CLIENT_ID")
-    client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
+    client_id = os.getenv("SPOTIFY_CLIENT_ID") or st.secrets["SPOTIFY_CLIENT_ID"]
+    client_secret = os.getenv("SPOTIFY_CLIENT_SECRET") or st.secrets["SPOTIFY_CLIENT_SECRET"]
 
     sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
 
