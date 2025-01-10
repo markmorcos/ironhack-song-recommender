@@ -10,7 +10,7 @@ from utils.functions import get_song_recommendations
 def main():
     # Set page config
     st.set_page_config(
-        page_title="Song Recommender",
+        page_title="Melody Match",
         page_icon="🎵",
         layout="centered"
     )
@@ -28,12 +28,12 @@ def main():
         show_selection_page()
 
 def show_landing_page():
-    st.title("Song Recommender")
+    st.title("Melody Match")
     
     # App explanation in an expandable section
     with st.expander("App explanation"):
         st.write("""
-        Welcome to the Song Recommender! This app helps you discover new music based on your favorite songs.
+        Welcome to the Melody Match! This app helps you discover new music based on your favorite songs.
         Simply enter a song title and optionally an artist name, and we'll recommend similar songs you might enjoy.
         """)
     
