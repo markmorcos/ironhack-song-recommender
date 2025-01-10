@@ -1,9 +1,6 @@
 import sys
 sys.path.append('.')
 
-from dotenv import load_dotenv
-load_dotenv()
-
 import streamlit as st
 from utils.functions import get_song_recommendations
 
