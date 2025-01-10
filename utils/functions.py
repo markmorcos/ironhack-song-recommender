@@ -176,7 +176,7 @@ def get_song_recommendations(song_title, artist_name, n_recommendations=5):
         return None
 
     # Run KMeans clustering on the result from spotify
-    kmeans = pickle.load(open('kmeans/kmeans.pkl', 'rb'))
+    kmeans = pickle.load(open('models/kmeans.pkl', 'rb'))
     cluster = kmeans.predict(spotify_info[["popularity", "album_popularity"]])
 
     # Get songs from the same cluster
