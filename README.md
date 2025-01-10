@@ -21,6 +21,8 @@ We implemented K-means clustering to group songs based on their audio features a
 - Silhouette Analysis
 - Elbow Method
 
+![Model Evaluation](assets/model_evaluation.png)
+
 Our final model uses 3 clusters, which provided the best balance between cluster cohesion and separation.
 
 ## 🚀 Running the App Locally
