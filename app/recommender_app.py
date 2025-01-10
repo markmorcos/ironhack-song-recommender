@@ -20,12 +20,16 @@ def main():
         st.session_state.page = 'landing'
     if 'recommendations' not in st.session_state:
         st.session_state.recommendations = None
+    if 'favorites' not in st.session_state:
+        st.session_state.favorites = []
 
     # Navigation logic
     if st.session_state.page == 'landing':
         show_landing_page()
     elif st.session_state.page == 'selection':
         show_selection_page()
+    elif st.session_state.page == 'favorites':
+        show_favorites_page()
 
 def show_landing_page():
     st.title("Melody Match")
@@ -57,6 +61,10 @@ def show_landing_page():
                 st.error(f"An error occurred: {str(e)}")
         else:
             st.warning("Please enter a song title")
+    
+    if st.button("Favorites"):
+        st.session_state.page = 'favorites'
+        st.rerun()
 
 def show_selection_page():
     st.title("Song Selection")
@@ -78,6 +86,7 @@ def show_selection_page():
                 with col2:
                     if st.button("I like this one!", key=f"like_{row['title']}"):
                         st.success(f"You liked {row['title']} by {row['artist']}!")
+                        st.session_state.favorites.append((row['title'], row['artist']))
                 
                 st.divider()
         
@@ -91,6 +100,25 @@ def show_selection_page():
         if st.button("Back to search"):
             st.session_state.page = 'landing'
             st.rerun()
+
+def show_favorites_page():
+    st.title("Favorites")
+
+    if st.session_state.favorites:
+        for favorite in st.session_state.favorites:
+            col1, col2 = st.columns([4, 1])
+            with col1:
+                st.write(f"{favorite[0]} by {favorite[1]}")
+            with col2:
+                if st.button("Remove", key=f"remove_{favorite[0]}"):
+                    st.session_state.favorites.remove(favorite)
+                    st.rerun()
+    else:
+        st.write("No favorites yet")
+    
+    if st.button("← Back to search"):
+        st.session_state.page = 'landing'
+        st.rerun()
 
 if __name__ == "__main__":
     main() 

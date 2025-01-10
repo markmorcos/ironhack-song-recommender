@@ -41,11 +41,11 @@ pip install -r requirements.txt
 3. Set up Spotify API credentials:
    - Create a [Spotify Developer Account](https://developer.spotify.com/dashboard)
    - Create a new application to get your credentials
-   - Copy `.env.example` to `.env` and update with your credentials:
+   - Copy `.streamlit/secrets.toml.example` to `.streamlit/secrets.toml` and update with your credentials:
 
-```bash
-SPOTIFY_CLIENT_ID=your_client_id_here
-SPOTIFY_CLIENT_SECRET=your_client_secret_here
+```toml
+SPOTIFY_CLIENT_ID = "your_client_id_here"
+SPOTIFY_CLIENT_SECRET = "your_client_secret_here"
 ```
 
 4. Launch the app:
