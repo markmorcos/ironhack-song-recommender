@@ -1,0 +1,1740 @@
+title,artist,isHot,popularity,album_popularity,genres
+Die With A Smile,Lady Gaga,True,100,95,"['art pop', 'dance pop', 'pop']"
+A Bar Song (Tipsy),Shaboozey,True,86,82,"['modern country pop', 'pop rap']"
+BIRDS OF A FEATHER,Billie Eilish,True,97,100,"['art pop', 'pop']"
+Lose Control,Teddy Swims,True,89,89,[]
+APT.,ROSÉ,True,96,92,['k-pop']
+That’s So True,Gracie Abrams,True,96,94,['alt z']
+luther (with sza),Kendrick Lamar,True,90,99,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+Espresso,Sabrina Carpenter,True,88,84,['pop']
+Taste,Sabrina Carpenter,True,91,98,['pop']
+Beautiful Things,Benson Boone,True,88,90,['singer-songwriter pop']
+Love Somebody,Morgan Wallen,True,84,80,['contemporary country']
+Too Sweet,Hozier,True,84,80,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+Timeless (with Playboi Carti),The Weeknd,True,92,88,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+squabble up,Kendrick Lamar,True,89,99,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+"Good Luck, Babe!",Chappell Roan,True,93,88,['indie pop']
+Stargazing,Myles Smith,True,87,82,['singer-songwriter pop']
+Not Like Us,Kendrick Lamar,True,88,84,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+WHATCHU KNO ABOUT ME (feat. Sexyy Red),GloRilla,True,81,82,['southern hip hop']
+30 For 30 (with Kendrick Lamar),SZA,True,84,97,"['pop', 'r&b', 'rap']"
+High Road (feat. Jessie Murph),Koe Wetzel,True,72,68,"['classic texas country', 'modern country pop']"
+Who,Jimin,True,90,89,['k-pop']
+Messy,Lola Young,True,87,83,['uk pop']
+Please Please Please,Sabrina Carpenter,True,87,98,['pop']
+Smile,Morgan Wallen,True,79,74,['contemporary country']
+I Am Not Okay,Jelly Roll,True,76,80,"['country rap', 'modern country pop', 'nashville hip hop', 'tennessee hip hop']"
+BMF,SZA,True,85,97,"['pop', 'r&b', 'rap']"
+MILLION DOLLAR BABY,Tommy Richman,True,88,84,['chill abstract hip hop']
+Wind Up Missin’ You,Tucker Wetmore,True,79,78,['modern country pop']
+Bed Chem,Sabrina Carpenter,True,88,98,['pop']
+Sailor Song,Gigi Perez,True,93,89,['bedroom pop']
+Lies Lies Lies,Morgan Wallen,True,80,76,['contemporary country']
+WILDFLOWER,Billie Eilish,True,92,100,"['art pop', 'pop']"
+Pink Pony Club,Chappell Roan,True,85,94,['indie pop']
+I Never Lie,Zach Top,True,79,83,['modern country pop']
+Liar,Jelly Roll,True,75,80,"['country rap', 'modern country pop', 'nashville hip hop', 'tennessee hip hop']"
+I'm Gonna Love You,Cody Johnson,True,69,64,"['classic texas country', 'contemporary country', 'modern country pop']"
+Scorsese Baby Daddy,SZA,True,81,97,"['pop', 'r&b', 'rap']"
+Tu Boda,Oscar Maydon,True,91,87,['corrido']
+"I Love You, I'm Sorry",Gracie Abrams,True,89,89,['alt z']
+It's ok I'm ok,Tate McRae,True,82,78,['pop']
+No One Noticed,The Marías,True,86,86,"['bedroom pop', 'la indie']"
+Good News,Shaboozey,True,79,75,"['modern country pop', 'pop rap']"
+Loco,Neton Vega,True,81,77,['corrido']
+Drive,SZA,True,79,97,"['pop', 'r&b', 'rap']"
+Qué Pasaría...,Rauw Alejandro,True,90,95,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']"
+Think I'm In Love With You,Chris Stapleton,True,76,78,"['contemporary country', 'outlaw country']"
+Dancing In The Flames,The Weeknd,True,81,77,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+Help Me,Real Boston Richey,True,69,65,"['florida drill', 'memphis hip hop']"
+Residuals,Chris Brown,True,70,76,"['r&b', 'rap']"
+Am I Okay?,Megan Moroney,True,75,78,"['contemporary country', 'modern country pop']"
+Diamond Boy (DTM),SZA,True,80,97,"['pop', 'r&b', 'rap']"
+I Ain't Sayin',Jordan Davis,True,73,69,['contemporary country']
+What Do I Do,SZA,True,81,97,"['pop', 'r&b', 'rap']"
+Heart Of A Woman,Summer Walker,True,73,69,"['r&b', 'rap']"
+Another Life,SZA,True,80,97,"['pop', 'r&b', 'rap']"
+Bad Dreams,Teddy Swims,True,86,82,[]
+No Pole,Don Toliver,True,86,84,['rap']
+Empty Out Your Pockets,Juice WRLD,True,84,89,"['chicago rap', 'melodic rap', 'rap']"
+DOS DÍAS,Tito Double P,True,88,97,['corrido']
+Close To You,Gracie Abrams,True,82,83,['alt z']
+Popular,Ariana Grande,True,84,93,['pop']
+Crybaby,SZA,True,80,97,"['pop', 'r&b', 'rap']"
+wacced out murals,Kendrick Lamar,True,84,99,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+Diet Pepsi,Addison Rae,True,85,81,['social media pop']
+Apple,Charli xcx,True,82,88,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']"
+Boys Back Home,Dylan Marlowe,True,57,59,['modern country pop']
+25,Rod Wave,True,75,81,['florida rap']
+Kitchen,SZA,True,80,97,"['pop', 'r&b', 'rap']"
+Burning Down (with Joe Jonas),Alex Warren,True,74,70,"['gen z singer-songwriter', 'singer-songwriter pop']"
+Disease,Lady Gaga,True,83,79,"['art pop', 'dance pop', 'pop']"
+Shake Dat Ass (Twerk Song),BossMan Dlow,True,69,67,[]
+Gang Baby,NLE Choppa,True,82,80,"['memphis hip hop', 'rap']"
+Khé?,Rauw Alejandro,True,88,95,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']"
+Brokey,Latto,True,70,71,['trap queen']
+ROSONES,Tito Double P,True,88,84,['corrido']
+Juno,Sabrina Carpenter,True,86,98,['pop']
+NADIE,Tito Double P,True,88,84,['corrido']
+What Is This Feeling?,Ariana Grande,True,84,93,['pop']
+EL CLúB,Bad Bunny,True,85,81,"['reggaeton', 'trap latino', 'urbano latino']"
+PIToRRO DE COCO,Bad Bunny,True,80,76,"['reggaeton', 'trap latino', 'urbano latino']"
+The Largest,BigXthaPlug,True,73,82,['southern hip hop']
+Wondering Why,The Red Clay Strays,True,80,78,['modern country pop']
+Ends of the Earth,Ty Myers,True,72,68,[]
+Chill Baby,SZA,True,78,97,"['pop', 'r&b', 'rap']"
+Holy Smokes,Bailey Zimmerman,True,75,71,"['contemporary country', 'modern country pop']"
+High Road,Zach Bryan,True,75,72,['classic oklahoma country']
+on one tonight,Gunna,True,84,88,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+Cowboy Songs,George Birge,True,51,50,"['modern country pop', 'texas country']"
+On efface,Julie Zenatti,False,1,14,"['chanson', 'french pop']"
+Howells Delight,Anonymous,False,0,0,['medieval']
+Martha Served,I Hate Sally,False,1,6,"['canadian metal', 'canadian post-hardcore', 'kingston on indie']"
+"Zip-a-Dee-Doo-Dah (From ""Song of the South"")",Orlando Pops Orchestra,False,0,1,['pops orchestra']
+Misery Path - From the Privilege of Evil,Amorphis,False,7,27,"['finnish death metal', 'finnish melodeath', 'finnish metal', 'folk metal', 'gothic metal', 'melodic death metal', 'metal', 'power metal', 'progressive doom', 'symphonic metal', 'viking metal']"
+"Nuovi Re, Pt. I I (feat. Tek Money - Lady Tambler)",Inoki,False,6,28,"['italian hip hop', 'italian underground hip hop']"
+Halloween,Dead Kennedys,False,38,53,"['alternative rock', 'early us punk', 'hardcore punk', 'punk']"
+Parto em Terras Distantes,Brigada Victor Jara,False,0,1,"['fado', 'folclore portugues']"
+What Drives the Weak,Shadows Fall,False,33,41,"['alternative metal', 'boston metal', 'industrial metal', 'melodic metalcore', 'melodic thrash', 'metalcore', 'new england metal', 'nu metal']"
+Life Force,Vanessa Daou,False,1,8,['downtempo']
+The Dance Of Europe,Dave Brockie Experience,False,4,20,['comedy rock']
+Spoonie Is Back,Spoonie Gee,False,4,8,"['harlem hip hop', 'old school hip hop']"
+Up Above My Head I Hear Music In The Air,Sister Rosetta Tharpe,False,22,37,"['acoustic blues', 'gospel blues', 'traditional blues']"
+Columbia - Remastered,Oasis,False,44,66,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']"
+Radar For Love,KISS,False,21,45,"['glam rock', 'hard rock', 'rock']"
+Antarctica Starts Here - Remastered 2024,John Cale,False,25,45,"['art rock', 'melancholia', 'singer-songwriter']"
+Everyone Make Love,Cool Cavemen,False,0,0,[]
+Calm Da Seas,Dave Hollister,False,5,24,"['contemporary r&b', 'new jack swing', 'r&b']"
+Ran Kan Kan,Néstor Torres,False,12,18,[]
+Afraid Of Change - Tribal Vocal Mix,Casa Bulga,False,0,0,[]
+"Grow Up, Grow Old",Debbie Davies,False,0,20,"['electric blues', 'modern blues', 'power blues-rock']"
+Walk Away From Love,Willie Clayton,False,8,12,"['chicago blues', 'chicago soul', 'soul blues', 'southern soul', 'southern soul blues']"
+Strange Things,Tanto Metro & Devonte,False,0,3,"['dancehall', 'jamaican dancehall']"
+Dholna Ve Ranjna,Naseebo Lal,False,16,17,"['classic pakistani pop', 'sufi']"
+Parchman Farm,Hot Tuna,False,0,0,"['blues rock', 'country rock', 'electric blues', 'jam band', 'psychedelic rock', 'roots rock']"
+A Lo Clásico,Daddy Yankee,False,29,74,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
+只想你會意,Hacken Lee,False,28,43,"['c-pop', 'cantopop', 'classic cantopop']"
+Amaze,Jimmy Riley,False,0,6,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Radio Rape,The Cortinas,False,0,4,['deep punk rock']
+Cavaleiro De Aruanda,Jongo Trio,False,10,9,[]
+Tell Me Why,George Nooks,False,0,16,"['deep ragga', 'gospel reggae', 'lovers rock', 'old school dancehall', 'roots reggae']"
+Czwarty,Energy,False,0,0,[]
+Washington Post - 1998 Digital Remaster,John Philip Sousa,False,1,11,"['american romanticism', 'concert band']"
+No Pienses Asi,Eddie Palmieri,False,6,22,"['jazz piano', 'latin jazz', 'salsa']"
+Cavalleria Rusticana,William Orbit,False,21,38,"['classic progressive house', 'downtempo', 'intelligent dance music']"
+Forever,Chris Brown,False,77,73,"['r&b', 'rap']"
+Amor a Medias,Ha*Ash,False,53,63,"['latin arena pop', 'latin pop', 'mexican pop']"
+15 Step,Radiohead,False,64,82,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']"
+I Love Your Way,Kashief Lindo,False,1,5,"['deep ragga', 'lovers rock', 'old school dancehall']"
+Raise Your Hands,Bon Jovi,False,49,84,"['glam metal', 'rock']"
+Rainbow Dance,John Tchicai,False,0,0,"['avant-garde jazz', 'free jazz', 'jazz saxophone']"
+Champagne & Reefer,Bongzilla,False,21,32,"['doom metal', 'drone metal', 'sludge metal', 'stoner metal', 'stoner rock']"
+I Need a Veggie,John Holt,False,0,0,"['dub', 'lovers rock', 'reggae', 'rocksteady', 'roots reggae']"
+Get Happy,Danny Wilson,False,1,17,"['new wave pop', 'scottish new wave', 'sophisti-pop']"
+Cry for Love,Capleton,False,2,6,"['dancehall', 'lovers rock', 'reggae', 'roots reggae']"
+Volumatic Spacer Device,The Chap,False,0,2,"['british experimental', 'experimental pop']"
+Putt Jhatt Da Gulabi Phull Varga,Dj Vix,False,1,24,['bhangra']
+Namibia,Ziggy Marley & The Melody Makers,False,5,19,"['reggae', 'roots reggae']"
+Unlearn,Crematorium,False,0,3,[]
+Sweet Lady - Instrumental,Floyd Lloyd,False,0,0,[]
+Forever More (Francois K & Eric Kupper Vocal Mix),Moloko,False,29,39,"['electronica', 'trip hop']"
+3,Britney Spears,False,57,55,"['dance pop', 'pop']"
+Meet Me in the City,Junior Kimbrough,False,42,42,"['acoustic blues', 'country blues', 'delta blues', 'traditional blues']"
+"Oh, What A Feeling",The Everly Brothers,False,10,47,"['adult standards', 'folk rock', 'mellow gold', 'rock-and-roll', 'rockabilly', 'sunshine pop']"
+Heyya Heyya,Ramy Ayach,False,0,25,"['arab pop', 'lebanese pop']"
+Misty Valley,Peter Yorke,False,2,17,[]
+Sehnsuchtsexpress,Frl. Menke,False,0,1,['neue deutsche welle']
+Come Alive,Agnostic Front,False,8,34,"['chicano punk', 'crossover thrash', 'hardcore', 'hardcore punk', 'nyhc', 'old school thrash', 'punk']"
+Spitting Games,Snow Patrol,False,50,62,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']"
+Check The Bomb,Refractory,False,2,23,[]
+System of Play,Theodor Zox,False,0,0,[]
+Birch,Maximilian Hecker,False,0,5,['melancholia']
+Same Old Thing,Albert Collins,False,3,29,"['acoustic blues', 'blues', 'blues rock', 'electric blues', 'modern blues', 'texas blues', 'traditional blues']"
+Voodoo Doll,Fergie,False,17,48,"['dance pop', 'pop']"
+Nerio Compra Una Contestadora,Los Amigos Invisibles,False,0,44,"['latin afrobeat', 'latin alternative', 'latin funk', 'latin rock', 'rock en espanol', 'venezuelan indie', 'venezuelan rock']"
+Killer - Single Version,Seal,False,21,18,"['british soul', 'new wave pop']"
+Sunset Manifesto,Flink,False,0,0,[]
+From My Hands,Salt The Wound,False,9,12,['deathcore']
+Frei zu sein,In Extremo,False,47,46,"['folk metal', 'german metal', 'hurdy-gurdy', 'medieval rock', 'neue deutsche harte']"
+Grown & Sexy,DJ Omega,False,16,13,['ghettotech']
+Pussy Hole,DJ Nasty,False,1,1,['ghettotech']
+El Divertido,Orquesta La Sublime,False,0,10,['musica tradicional cubana']
+Blackwood Moth,Milieu,False,2,14,['deep idm']
+Dreaming Of April,Out Of The Grey,False,2,15,['deep christian rock']
+New Sensation,Snow Patrol,False,16,18,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']"
+For The Good Times,Dart,False,0,8,[]
+Clever Girls Like Clever Boys Much More Than Clever Boys Like Clever Girls,Pelle Carlberg,False,10,11,"['svensk indie', 'twee pop', 'uppsala indie']"
+Never Alone,Open Hand,False,2,13,['spacegrunge']
+Chatterbox,Sex Pistols,False,0,2,"['alternative rock', 'punk', 'rock']"
+Sporco Ma Distinto,Ennio Morricone,False,1,12,"['classic soundtrack', 'italian soundtrack', 'orchestral soundtrack', 'vintage italian soundtrack']"
+Elle Et Moi,Koffi Olomide,False,19,30,"['azontobeats', 'ndombolo', 'rumba congolaise', 'soukous', 'zilizopendwa']"
+Columbus Stockade Blues,Charlie McCoy,False,5,15,['harmonica blues']
+Damn That Radio - Live,The Wreckers,False,6,14,"['candy pop', 'country dawn']"
+Camisa Amarela,Gal Costa,False,25,46,"['bossa nova', 'mpb', 'tropicalia']"
+Style,Enuff Z'Nuff,False,1,9,"['glam metal', 'underground power pop']"
+Keep the Circle Around (2023 Remaster),Inspiral Carpets,False,3,14,"['britpop', 'madchester']"
+Wot U Say,Various Production,False,0,0,[]
+幸災樂禍,Eason Chan,False,9,38,"['c-pop', 'cantopop', 'mandopop']"
+Birth Of The Falls,Stephen Warbeck,False,0,4,"['british soundtrack', 'soundtrack']"
+For Me This Is Happy,Gene Pitney,False,0,3,"['adult standards', 'brill building pop', 'merseybeat', 'rock-and-roll', 'rockabilly']"
+Ithaki,Peggy Zina,False,0,2,"['greek pop', 'laiko']"
+Guilty Partner - 2015 Remaster,New Order,False,28,48,"['alternative rock', 'dance rock', 'madchester', 'new romantic', 'new wave', 'permanent wave', 'post-punk', 'synthpop', 'uk post-punk']"
+Delilah,The Sensational Alex Harvey Band,False,20,19,['glam rock']
+Our Lady of Fatima (Original Mix),Kitty Kallen,False,0,9,['torch song']
+I Got A Seecret,Redman,False,2,12,"['east coast hip hop', 'hardcore hip hop', 'new jersey rap', 'wu fam']"
+Banda Yango,Tshala Muana,False,7,36,"['soukous', 'zilizopendwa']"
+Song For Love,Extreme,False,31,70,"['funk metal', 'glam metal', 'hard rock']"
+Nachts Um Halb Drei,Janina,False,0,1,[]
+Iron Man,Mat Maneri,False,0,0,"['avant-garde jazz', 'free improvisation', 'free jazz', 'jazz violin', 'modern free jazz']"
+"I Constantly Thank God for Esteban - Live at Congress Theater, Chicago, IL, 2008",Panic! At The Disco,False,24,45,['pop']
+000grandpno,Pumpkin Buzzard,False,0,0,[]
+Pai Keros,Christos Dantis,False,4,17,"['classic greek pop', 'greek pop', 'laiko']"
+Tuesday Afternoon (Forever Afternoon),The Moody Blues,False,47,54,"['album rock', 'art rock', 'british invasion', 'classic rock', 'country rock', 'flute rock', 'folk rock', 'mellow gold', 'progressive rock', 'rock', 'singer-songwriter', 'soft rock', 'symphonic rock']"
+As We Lay,Fiona,False,0,13,[]
+The Anthem - Kemal Remix,Hatiras,False,0,0,"[""jackin' house""]"
+Disco Trafiko,Trafik,False,0,4,[]
+Rant Kanaria,Jope Ruonansuu,False,0,5,"['classic finnish pop', 'classic iskelma', 'iskelma', 'musiikkia lapista', 'suomi rock']"
+Clavelitos,Joselito,False,29,27,['copla']
+Tomorrow's Girls - Live,U.K. Subs,False,0,1,"['hardcore punk', 'oi', 'punk', 'uk82']"
+O Dikos Sou DJ,Imiskoubria,False,6,34,['greek hip hop']
+Little Brother,Grizzly Bear,False,23,41,"['art pop', 'baroque pop', 'brooklyn indie', 'indie rock', 'neo-synthpop', 'new weird america']"
+Polly,Nirvana,False,28,55,"['grunge', 'permanent wave', 'rock']"
+Be Aware,SOJA,False,22,48,"['east coast reggae', 'reggae']"
+The Chance,Julie Roberts,False,15,45,['country dawn']
+Abbeville Fair,Seatrain,False,1,13,['flute rock']
+My Life Is Totally Boring Without You,Cracker,False,3,20,"['alternative rock', 'permanent wave', 'pop rock', 'post-grunge']"
+Calliope,Al Di Meola,False,3,13,"['flamenco guitar', 'jazz fusion', 'jazz guitar']"
+Fire in the Hole,The Elders,False,8,10,['celtic rock']
+So Different Blues,Mance Lipscomb,False,7,21,"['country blues', 'texas blues', 'traditional blues']"
+Cuantas madres llorando,Los Chunguitos,False,0,12,"['carnaval cadiz', 'pop flamenco', 'rumba', 'spanish pop']"
+Opening,Harald Kloser,False,9,42,['soundtrack']
+Lived My Life,Singing Melody,False,2,32,"['deep ragga', 'lovers rock', 'old school dancehall', 'roots reggae']"
+Do You See the Light? (Looking For) (feat. Niki Haris) (Deep Ethno Mix),SNAP!,False,4,23,"['diva house', 'eurodance', 'german techno', 'hip house']"
+3500 (feat. Future & 2 Chainz),Travis Scott,False,67,84,"['rap', 'slap house']"
+Save My Soul - Cypher UK Radio Edit,Kristine W,False,0,16,['diva house']
+Song Without End,Paul Avgerinos,False,0,8,[]
+Background Music: The Greatest Ever Punk Sing-Along! - Live,The Prefects,False,0,0,['uk post-punk']
+6th Avenue Nightmare,Pennywise,False,14,35,"['punk', 'skate punk', 'socal pop punk']"
+Cuatro Estrofas,Sandra Mihanovich,False,19,35,"['cantautora argentina', 'rock nacional']"
+Climax - Instrumental Mix,Slum Village,False,28,51,"['alternative hip hop', 'detroit hip hop', 'hardcore hip hop', 'hip hop']"
+Give It Up or Let Me Go,The Chicks,False,31,65,"['contemporary country', 'country', 'country dawn']"
+Joy to the World,Boots Randolph,False,0,10,['nashville sound']
+Althea Cooley,Mack and Jamie,False,0,0,[]
+Yearning Just For You,Bob Wills,False,15,39,"['cowboy western', 'traditional country', 'western swing']"
+Sincerely,Don & Juan,False,1,30,"['doo-wop', 'rhythm and blues']"
+Road To Bali: The Merry-Go-Runaround,Bob Hope,False,1,16,['vintage hollywood']
+Question Authority,Circle Jerks,False,31,46,"['hardcore punk', 'punk']"
+Loup Garou,Willy DeVille,False,9,30,['native american traditional']
+Oh No,Daniel Johnston,False,5,20,"['alternative rock', 'anti-folk', 'chamber pop', 'countrygaze', 'lo-fi', 'melancholia', 'noise pop', 'outsider']"
+So Many Reasons,Jake Hess,False,0,0,['southern gospel']
+Dragonfly,Diesel Boy,False,4,27,"['melodic hardcore', 'ska punk', 'skate punk']"
+Fading Lady Light,Jefferson Starship,False,16,54,"['album rock', 'classic rock', 'folk rock', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']"
+The Croppy Boy,The Irish Tenors,False,0,5,['irish ballad']
+Many Are We,Keep Of Kalessin,False,7,20,"['black metal', 'norwegian black metal', 'norwegian metal', 'symphonic black metal', 'technical black metal', 'viking metal']"
+Play The Part,Eyes Set To Kill,False,19,37,"['metalcore', 'pixie', 'screamo']"
+Caseta del Plater,Pep Laguarda & Tapineria,False,5,6,[]
+2 People - Favretto Remix Instrumental,Ann Lee,False,0,2,"['eurodance', 'hip house', 'italo dance']"
+"Tem Dó De Mim - Live At El Matador, San Francisco, CA / 1965",Sérgio Mendes,False,6,14,"['bossa nova', 'brazilian jazz', 'samba']"
+Salvation,Chroma Key,False,6,24,['progressive metal']
+Shame,ABREU,False,6,29,"['finnish dance pop', 'finnish hip hop', 'finnish pop']"
+"Arise, My Love (Song Of Solomon)",Michael Card,False,17,22,[]
+Two Guitars Shuffle - Take 2,Lonnie Brooks,False,29,29,"['chicago blues', 'louisiana blues']"
+What If I Forget the Champagne,Stanley Clarke,False,2,23,"['electric bass', 'jazz funk', 'jazz fusion']"
+Listen,Mykill Miers,False,0,0,[]
+Elementro - Original Mix,Ten Madison,False,0,4,"['future ambient', 'psychill']"
+Kangaroo Blues,Moon Mullican,False,0,0,"['country boogie', 'western swing']"
+Strangers In The House - From “Casper” Soundtrack,James Horner,False,18,39,"['orchestral soundtrack', 'soundtrack']"
+A.C.A.B. - Bumper Sessions,4 Skins,False,22,33,['oi']
+NOT IN LOVE,The Scare,False,0,1,[]
+Are You There (With Another Girl),Burt Bacharach,False,18,47,"['adult standards', 'brill building pop', 'easy listening', 'lounge']"
+Introduction,The Chi-Lites,False,0,4,"['chicago soul', 'classic soul', 'disco', 'funk', 'quiet storm', 'soul', 'southern soul']"
+No Good In Goodbye - With Jewel,Jason Michael Carroll,False,13,44,"['country', 'country road']"
+Copacabana,Sivuca,False,0,0,"['bossa nova', 'jazz accordion', 'mpb', 'samba', 'samba-jazz', 'velha guarda']"
+I Wanna Be Where You Are,Michael Jackson,False,39,52,"['r&b', 'soul']"
+Tenderly,Eddie Calvert,False,0,0,"['easy listening', 'jazz trumpet']"
+Song For Paul,Alex Gopher,False,0,7,"['electrofox', 'filter house']"
+Thrill Me - 2008 Remaster,Simply Red,False,37,69,"['british soul', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop']"
+Covered - The Beauty Of Simplicity Album Version,Telecast,False,5,21,[]
+From The Gardner Meditations: African Tarantella,Stefon Harris,False,9,13,['jazz vibraphone']
+Beautiful Lies,Eddie,False,0,0,"['brazilian indie', 'manguebeat']"
+Alma de Metal,Bobby Pulido,False,6,41,"['banda', 'grupera', 'musica mexicana', 'norteno', 'tejano']"
+Toby,The Chi-Lites,False,24,24,"['chicago soul', 'classic soul', 'disco', 'funk', 'quiet storm', 'soul', 'southern soul']"
+La Fruta Bomba,Fruko Y Sus Tesos,False,1,15,"['salsa', 'salsa colombiana']"
+Wartime Blues,Blind Lemon Jefferson,False,0,0,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'gospel blues', 'pre-war blues', 'texas blues', 'traditional blues']"
+Only You,Nana Mouskouri,False,1,30,[]
+Change Your Mind,KMD,False,0,0,[]
+O.T. - Skit,Cam'ron,False,0,21,"['battle rap', 'east coast hip hop', 'harlem hip hop', 'southern hip hop']"
+Wildflower,Bon Jovi,True,27,60,"['glam metal', 'rock']"
+Dolores,The Merry Macs,False,2,32,"['big band', 'british dance band', 'vocal harmony group']"
+Tables Turn,Ann Nesby,False,3,23,[]
+Heal (The Separation) - PM Dawn Alt. Lead Mix,The Shamen,False,0,2,"['acid house', 'big beat', 'britpop', 'dance rock', 'hardcore techno', 'hip house']"
+East West - 2006 Remaster,Thomas Battenstein,False,0,0,[]
+The Invasion (Aka Black Wa Da Da),Burning Spear,False,13,23,"['dub', 'reggae', 'roots reggae']"
+Motivator,Midwest Product,False,1,6,['michigan indie']
+IV,From Autumn To Ashes,False,11,40,"['melodic metalcore', 'metalcore', 'post-hardcore', 'screamo']"
+La petite boite en fer,Mademoiselle Sane,False,0,3,[]
+The Other Side Of That Hill,Barbara Fairchild,False,0,1,"['arkansas country', 'classic country pop', 'country gospel']"
+Own Me,The Frequency,False,0,0,[]
+Someday (I Will Understand),Britney Spears,False,32,34,"['dance pop', 'pop']"
+Fall Line - Live feat. Matt Costa,Jack Johnson,False,10,31,['neo mellow']
+Morghe Eshgh,Mohammad Nouri,False,0,5,['classic persian pop']
+Das ist mein Viertel (feat. Capkekz),Eko Fresh,False,8,36,"['cologne hip hop', 'german hip hop', 'turkish hip hop']"
+Me vuelves loco,Caballo Dorado,False,8,18,[]
+Sista,City High,False,8,54,[]
+Valerie (feat. Amy Winehouse) - Version Revisited,Mark Ronson,False,80,76,['pop soul']
+November Has Come,Gorillaz,False,65,84,"['alternative hip hop', 'modern rock', 'rock']"
+The Very Conscious,The Antripodean Collective,False,0,0,[]
+Back a Yard,The In Crowd,False,25,35,"['freakbeat', 'lovers rock']"
+South Bound Water,Lonnie Johnson,False,0,5,"['acoustic blues', 'blues', 'country blues', 'jazz blues', 'louisiana blues', 'memphis blues', 'new orleans blues', 'traditional blues']"
+Ja Nun Hons Pris,Bryan Ferry,False,6,28,"['glam rock', 'melancholia', 'new romantic', 'new wave', 'new wave pop', 'solo wave', 'sophisti-pop']"
+Things You Do To Me,Martin Sexton,False,8,26,['alternative americana']
+O For a Thousand Tongues,Glad,False,12,29,['christian a cappella']
+Tripping Billies,Dave Matthews Band,False,31,52,"['jam band', 'neo mellow', 'pop rock']"
+Nobody In Mind,Joe Turner,False,0,0,[]
+Run a Mile - Remastered,The Pineapple Thief,False,4,14,"['modern progressive rock', 'progressive metal']"
+我有今日 - 2022 Live,Justin Lo,False,15,30,['cantopop']
+All is One,ātman,False,9,22,[]
+Washes Over Me - Wamdue09 Remix Extended,Heather Johnson,False,0,0,['soulful house']
+Jag Vet En Dejlig Rosa,Traditional,False,0,0,"['gregorian chant', 'puirt-a-beul']"
+Hannikaisen baari,Hector,False,21,18,"['classic finnish rock', 'classic iskelma', 'suomi rock']"
+It Could All Get Blown Away,The Jeff Healey Band,False,0,3,"['blues', 'blues rock', 'canadian blues', 'country rock', 'electric blues', 'modern blues']"
+Bob Your Head,Run–D.M.C.,False,7,24,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+Make It Up,Anthony Cruz,False,0,1,['salsa']
+Le Roi A Fait Battre Tambour,Jacques Douai,False,0,0,['vintage chanson']
+Dope Nose,Weezer,False,44,52,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']"
+Never Alone,Walter Hawkins,False,19,32,['gospel']
+Love Lifted Me,Eddy Raven,False,10,23,['classic country pop']
+Working on the Highway,Bruce Springsteen,False,45,83,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']"
+新不了情,Fiona Sit,False,9,31,['cantopop']
+The Pig,Showbread,False,6,10,"['christian hardcore', 'christian punk']"
+Anyone Who Had a Heart,Cal Tjader,False,0,0,"['cool jazz', 'jazz vibraphone', 'latin jazz']"
+Nothing Matters Anymore,Showbread,False,4,13,"['christian hardcore', 'christian punk']"
+Fortunate Fool,Jack Johnson,False,33,55,['neo mellow']
+"Tu Vuo, Fa, L, Americano",Rita Chiarelli,False,2,3,['canadian blues']
+High Horse,Workhorse,False,5,5,[]
+Bodyfly - Dynamix original version,Dynamix,False,0,0,[]
+Brampton To Roadhead,Gathering,False,0,0,[]
+Stop That Thing,Sleepy John Estes,False,0,3,"['country blues', 'memphis blues', 'traditional blues']"
+Tu Quieres Volver,Gipsy Kings,False,45,68,"['flamenco', 'rumba', 'world']"
+Cable,Languis,False,0,0,[]
+Romanza,Hard Romantic,False,1,8,[]
+Walking To Jerusalem - Single Version,Tracy Byrd,False,25,34,"['contemporary country', 'country', 'country road']"
+Calm Down Dad,Helen Love,False,0,0,"['welsh indie', 'welsh rock']"
+Dragonfly - Live,Connemara Stone Company,False,0,1,['celtic rock']
+Intro,DJ Clue,False,9,43,"['dirty south rap', 'east coast hip hop']"
+BigBigKiss,Helen Love,False,7,22,"['welsh indie', 'welsh rock']"
+To Go Home,Daniel Johnston,False,8,15,"['alternative rock', 'anti-folk', 'chamber pop', 'countrygaze', 'lo-fi', 'melancholia', 'noise pop', 'outsider']"
+Duh Duh Da - Joe Smooth's Mix,Lidell Townsell,False,0,0,"['chicago house', 'classic house']"
+Let It All Go,Krayzie Bone,False,8,28,"['dirty south rap', 'gangster rap', 'ohio hip hop']"
+Tabernacle Song,Fake Problems,False,15,26,"['folk punk', 'orgcore']"
+(You're) Timeless To Me,Christopher Walken,False,38,66,[]
+Dig Up Her Bones,Misfits,False,55,53,"['horror punk', 'new jersey hardcore', 'new jersey punk', 'punk']"
+Cien Años,Selena,False,36,44,"['mexican pop', 'tejano']"
+Collides With Beauty,ATB,False,23,48,"['german dance', 'german techno', 'german trance', 'trance']"
+A Little Of You - Remastered Version,Eurythmics,False,23,54,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']"
+2 Fists Full Of Nothing,The Bruisers,False,3,21,"['american oi', 'boston punk', 'oi']"
+In My Heart,Paul Avgerinos,False,0,8,[]
+My Own Way,Evolution,False,0,0,[]
+Pick Me Up On Your Way Down - Live,Country's Family Reunion,False,1,11,[]
+Beloki,Peloton,False,0,0,[]
+Ich bleib so wie ich bin (feat. Ado),Eko Fresh,False,5,22,"['cologne hip hop', 'german hip hop', 'turkish hip hop']"
+Shenandoah,The Statler Brothers,False,19,45,"['country', 'country rock']"
+Schauet her,Der Plan,False,0,5,"['dusseldorf electronic', 'neue deutsche welle', 'zolo']"
+Smith & Wesson,Frenchy,False,0,0,[]
+Vietnamese Baby,New York Dolls,False,25,50,"['early us punk', 'glam punk', 'glam rock', 'protopunk', 'punk']"
+Bring Out Your Dead,Cadacross,False,0,0,"['finnish death metal', 'finnish melodeath', 'folk metal']"
+Angry Chair (2022 Remaster),Alice In Chains,False,53,77,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'rock']"
+The Modern Rome Burning,Anti-Flag,False,9,21,"['punk', 'skate punk']"
+Spawn (Again),Silverchair,False,30,52,"['alternative metal', 'alternative rock', 'australian alternative rock', 'australian psych', 'australian rock', 'grunge', 'nu metal', 'post-grunge']"
+Suck My Blood,Beherit,False,18,31,"['black metal', 'finnish black metal', 'lapland metal', 'war metal']"
+Friends Of All Races,Rocky Whatule,False,0,0,[]
+Love Shines Through - Dream Album Version,Michelle Tumes,False,2,13,[]
+White Jetta,Casiotone For The Painfully Alone,False,9,27,"['anti-folk', 'indietronica', 'lo-fi']"
+Jane 5,EPMD,False,12,51,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+Canon In D Major (J. Pachelbel),Mariano Yanani,False,11,24,[]
+Need to Shout,Architecture In Helsinki,False,6,29,"['alternative dance', 'australian indie', 'indietronica']"
+La nuit,Patrick Eudeline,False,0,1,[]
+"You Know How I Do - Live At Bamboozle, East Rutherford, NJ / 2009",Taking Back Sunday,False,11,21,"['emo', 'neon pop punk', 'pop punk', 'post-hardcore', 'screamo']"
+Io vivo,Piero Esteriore,False,3,15,[]
+Ay Nare Nare,Grup Knar,False,7,12,['duduk']
+Breath Of Fresh Air,Warrior King,False,8,37,"['lovers rock', 'modern reggae', 'old school dancehall', 'reggae', 'riddim', 'roots reggae']"
+She Left Me a Mule,Sonny Landreth,False,3,17,"['blues', 'blues rock', 'modern blues', 'southern rock']"
+Destiny,Buju Banton,False,44,55,"['dancehall', 'reggae fusion']"
+"Church Sonata in F Major, K. 244 - Live",Wolfgang Amadeus Mozart,False,0,0,"['classical', 'classical era']"
+"Love Is All Around - From ""Four Weddings And A Funeral""",Wet Wet Wet,False,68,64,"['boy band', 'new romantic', 'new wave pop', 'soft rock', 'sophisti-pop']"
+Maracaia,Timbalada,False,14,29,"['axe', 'samba reggae']"
+There Are More Questions Than Answers,Johnny Nash,False,8,48,[]
+Lebaran Sebentar Lagi,BIMBO,False,11,8,['classic indo pop']
+Wang Wang Blues,Hank Penny & His California Cowhands,False,0,0,[]
+Suba,Jason Miles,False,0,3,[]
+Beauty And The Beast - Remastered,Nightwish,False,31,41,"['fantasy metal', 'finnish metal', 'finnish power metal', 'gothic metal', 'gothic symphonic metal', 'opera metal', 'power metal', 'symphonic metal']"
+The Lonesome Boatman,The Fureys,False,5,28,['irish folk']
+Police Story,Black Flag,False,33,54,"['alternative rock', 'california hardcore', 'hardcore punk', 'punk']"
+Through the Looking Glass,Chris Standring,False,19,31,['smooth jazz']
+Alma Mater,Moonspell,False,41,43,"['gothic black metal', 'gothic metal', 'melodic death metal', 'metal', 'portuguese black metal', 'portuguese metal', 'portuguese rock', 'power metal']"
+Prospection,Henri Pousseur,False,0,0,"['acousmatic', 'belgian contemporary classical', 'belgian experimental', 'musique concrete', 'serialism']"
+Dontchaletmecatchya,The Wiyos,False,3,28,['modern old-time']
+Louie Louie,Eddie & The Subtitles,False,0,0,['deep punk rock']
+Chase the Light,Dope Stars Inc.,False,4,17,"['cyberpunk', 'industrial metal', 'italian metal', 'neue deutsche harte']"
+Good Texan,The Vaughan Brothers,False,36,46,"['blues', 'blues rock', 'country rock', 'electric blues', 'modern blues', 'southern rock', 'texas blues']"
+Neglected,Marygold,False,0,0,[]
+Chumpman Blues,Scott Ainslie,False,0,0,[]
+Russian Doll,Flink,False,0,0,[]
+My M.B. Thang,Tyree,False,0,21,[]
+Big Legged Woman,"Robert Lockwood, Jr.",False,4,23,"['blues', 'chicago blues', 'country blues', 'delta blues', 'traditional blues']"
+Bull Dog,The Shangri-Las,False,3,17,"['brill building pop', 'classic girl group', 'rock-and-roll']"
+Como nuestro amor no hay dos,Cabas,False,4,33,"['colombian pop', 'latin pop', 'reggaeton colombiano']"
+"One Year, Six Months",Yellowcard,False,39,71,"['alternative metal', 'pop punk', 'post-grunge', 'socal pop punk']"
+Trows Kind,Elvenking,False,13,27,"['fantasy metal', 'folk metal', 'gothic symphonic metal', 'italian folk metal', 'italian metal', 'italian power metal', 'melodic metal', 'power metal', 'tolkien metal']"
+Song For Stephin Merritt,Kira Skov,False,0,5,['danish singer-songwriter']
+Change Clothes,JAY-Z,False,46,66,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']"
+Ascendant,Keep Of Kalessin,False,9,13,"['black metal', 'norwegian black metal', 'norwegian metal', 'symphonic black metal', 'technical black metal', 'viking metal']"
+Cai Dentro,Gabriel Grossi,False,1,3,"['brazilian modern jazz', 'harmonica jazz']"
+El Capiro,Mercedes Castro,False,1,4,['ranchera']
+Si Te Dicen Por Ahi,Charlie Cruz,False,1,18,['salsa']
+Pickled Heads,Elliot Goldenthal,False,0,6,"['classic soundtrack', 'soundtrack']"
+If You Ask Me,Nick Colionne,False,30,47,['smooth jazz']
+"Werewolf, Semen And Blood",Beherit,False,18,37,"['black metal', 'finnish black metal', 'lapland metal', 'war metal']"
+Need More Blues (feat. Hammie Nixon),Sleepy John Estes,False,0,0,"['country blues', 'memphis blues', 'traditional blues']"
+Moritat (Mack The Knife) - Live From The Desert Inn / 1971,Bobby Darin,False,2,16,"['adult standards', 'easy listening', 'lounge', 'rock-and-roll', 'rockabilly', 'vocal jazz']"
+"Beauty Queen (12"" Spoon Club Mix)",SNAP!,False,2,16,"['diva house', 'eurodance', 'german techno', 'hip house']"
+Revelations,Marco Beltrami,False,0,7,"['orchestral soundtrack', 'soundtrack']"
+On The Road To Emmaus,The Steeles,False,23,20,['family gospel']
+離家出走,Janice Vidal,False,49,48,['cantopop']
+The Arcane Dominion,Eluveitie,False,24,46,"['celtic metal', 'folk metal', 'gothic metal', 'gothic symphonic metal', 'hurdy-gurdy', 'power metal', 'swiss metal', 'symphonic metal']"
+Active,Dark Party,False,6,24,[]
+Cuando Quieres Tu,La Sonora Santanera,False,6,28,"['bolero', 'bolero mexicano', 'tropical']"
+Djessy,Kanda Bongo Man,False,6,10,"['afropop', 'soukous', 'zilizopendwa']"
+Times Like These - EDX's Indian Summer Remix,Albin Myers,False,10,7,"['electro house', 'progressive electro house']"
+Into Battle,Ensiferum,False,34,43,"['finnish melodeath', 'finnish metal', 'folk metal', 'melodic death metal', 'metal', 'nordic folk metal', 'power metal', 'symphonic metal', 'viking metal']"
+Aquel Amor,Flor Silvestre,False,20,29,"['mariachi', 'ranchera']"
+Unicorn,David Lynch,False,0,0,[]
+Amdokwe,Vusi Mahlasela,False,0,7,['south african jazz']
+Nassau Town,John D. Loudermilk,False,0,3,['rock-and-roll']
+Look Me In The Eye,Margaret Becker,False,7,19,['deep christian rock']
+Harry Flowers,William Orbit,False,20,41,"['classic progressive house', 'downtempo', 'intelligent dance music']"
+Broke Down,Radio Moscow,False,38,48,['modern blues rock']
+Orgasme tellurique,Stille Volk,False,0,3,"['medieval folk', 'musica occitana']"
+Gonna Take a Miracle,The Elders,False,3,14,['celtic rock']
+Too Late (Orange Factory Extended Mix),Tina Ann,False,0,10,['deep vocal house']
+Hypnotise the Cat,Tam Tam Go!,False,0,37,"['indie extremena', 'spanish new wave', 'spanish pop', 'spanish pop rock']"
+Dime Si Me Quieres,Conjunto Mar Azul,False,0,0,"['chilena', 'musica costena']"
+Conversation,Jimmy Riley,False,4,6,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Liberty,Heavenly,False,22,44,"['c86', 'french metal', 'melodic metal', 'neo classical metal', 'power metal', 'symphonic metal']"
+Hiraeth am Feirion,The Gentle Good,False,3,24,"['cardiff indie', 'welsh folk']"
+Die Art von Mann,1. Futurologischer Congress,False,3,2,['neue deutsche welle']
+The Call,Backstreet Boys,False,59,69,"['boy band', 'dance pop', 'pop']"
+Let the Chips Fall,Charley Pride,False,13,49,"['classic country pop', 'country', 'country rock', 'nashville sound']"
+I.C.U.,Saigon Kick,False,7,24,['glam metal']
+Get Picked Up,Crazy Girl,False,0,5,[]
+Tómame o Déjame,Nicho Hinojosa,False,43,53,"['latin pop', 'rock en espanol', 'trova']"
+La Barca,Nelson Ned,False,26,45,"['bolero', 'mexican rock-and-roll', 'pop romantico', 'ranchera']"
+The Wonders,Yami Bolo,False,0,11,"['deep ragga', 'lovers rock', 'modern reggae', 'reggae', 'roots reggae']"
+Ambulance Man,Memphis Jug Band,False,0,8,"['acoustic blues', 'appalachian folk', 'jug band', 'memphis blues', 'traditional blues', 'traditional folk']"
+Laziness,Juan Farcik,False,0,0,[]
+Dama Dam Mast Kalander,Boota Pardesi,False,0,0,[]
+Printemps - Chant,Les Ogres De Barback,False,16,31,"['french folk pop', 'french reggae', 'french rock']"
+The Lord Will Go Before You,Janet Paschal,False,1,15,['southern gospel']
+Oh Little Town Of Bethlehem,Phillips Brooks,False,6,20,[]
+Engel - Live,Der Plan,False,0,0,"['dusseldorf electronic', 'neue deutsche welle', 'zolo']"
+Slips Of Paper,Dave Brockie Experience,False,4,22,['comedy rock']
+Refuge,Matisyahu,False,31,39,['reggae fusion']
+Backseat Driver,Debbie Davies,False,1,24,"['electric blues', 'modern blues', 'power blues-rock']"
+Sex,Bow Wow Wow,False,8,33,"['new romantic', 'new wave', 'new wave pop']"
+Old Memory,Ashton Shepherd,False,12,32,"['country dawn', 'country road']"
+Death of Me,Smash Palace,False,0,0,"['modern power pop', 'underground power pop']"
+Freight train,Elizabeth Cotten,False,40,46,"['american folk revival', 'piedmont blues', 'traditional blues', 'traditional folk']"
+Ooh la La,Tyrone Davis,False,15,22,"['chicago soul', 'southern soul']"
+Vennette,Maria Bamford,False,9,23,"['comedienne', 'comedy']"
+Procession,Vangelis,False,19,30,"['cyberpunk', 'synthesizer']"
+Multiplayer,Babylon Disco,False,0,0,[]
+Of Days Gone By,Dj Frankie Green,False,16,14,[]
+Lost in the Funhouse Again (Remastered),Michael Stanley Band,False,0,6,['heartland rock']
+Mine Again,Mariah Carey,False,36,71,"['dance pop', 'pop', 'urban contemporary']"
+No One Knows,George Nooks,False,1,10,"['deep ragga', 'gospel reggae', 'lovers rock', 'old school dancehall', 'roots reggae']"
+"X Marks The Spot / Escape From Venice - From ""Indiana Jones And The Last Crusade""",John Williams,False,3,48,"['orchestral soundtrack', 'soundtrack']"
+"Ghood Family (Feat. Bizzy, Black Nine, BIBI, MRSHLL)",Tiger JK,False,6,4,['k-rap']
+Reach For The Ground,The Ghost Of Lemora,False,0,3,['deathrock']
+Mule Get Up In The Alley,Cannon's Jug Stompers,False,0,7,"['country blues', 'jug band', 'memphis blues', 'traditional blues', 'traditional folk']"
+Existing Alone,Rhian Sheehan,False,0,11,"['compositional ambient', 'nz electronic', 'oceania soundtrack']"
+Small Axe - B Is Version,Bob Marley & The Wailers,False,24,40,"['reggae', 'roots reggae']"
+Telling Me Lies,Dolores Keane,False,6,34,"['celtic', 'irish folk']"
+Calling Dr. Zarkov,Robin Frederick,False,0,0,[]
+I Know a Man,Rev. Timothy Wright,False,6,26,['gospel']
+Please Come Home For Christmas,Lou Ann Barton,False,14,37,['texas blues']
+Hot Cross Bun ' Mikey Dread,Mikey Dread,False,0,2,"['dub', 'old school dancehall', 'reggae', 'roots reggae']"
+Hot Tamale Baby,Buckwheat Zydeco,False,15,28,['zydeco']
+I.a.i,Royal S,False,0,0,['jumpstyle']
+Mi Amante Amigo,Rocío Jurado,False,35,51,"['cancion melodica', 'copla', 'pop romantico']"
+Find Me Tonight - Wake Up! Wake Up! Album Version,Everyday Sunday,False,21,28,"['christian alternative rock', 'christian punk', 'christian rock']"
+Everything I Desire,The Brooklyn Tabernacle Choir,False,4,19,['classic praise']
+The Mission,Thirty Seconds To Mars,False,37,52,"['modern rock', 'post-grunge']"
+First Boyfriend,Helen Love,False,0,6,"['welsh indie', 'welsh rock']"
+The Tie That Binds,Moon Mullican,False,0,4,"['country boogie', 'western swing']"
+Raza Cristalera,Los Morros Del Norte,False,22,30,"['corridos alternativos', 'norteno', 'tololoche']"
+Just a Phase,Incubus,False,44,70,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'modern rock', 'nu metal', 'post-grunge', 'rock']"
+Only A Look - Glad You're Here Album Version,The Nelons,False,0,1,"['family gospel', 'southern gospel']"
+Do It,DJ Nasty,False,0,0,['ghettotech']
+Love & Devotion,Sizzla,False,3,12,"['dancehall', 'reggae', 'reggae fusion']"
+Just A Little Bit Of You,Michael Jackson,False,24,49,"['r&b', 'soul']"
+Ubik the Breakz (feat. Martin Bettinghaus) - Radio Mix,Timo Maas,False,16,42,"['big beat', 'breakbeat', 'classic progressive house', 'nu skool breaks', 'tribal house']"
+Cooling Out,Cocoa Tea,False,0,13,"['dancehall', 'lovers rock', 'old school dancehall', 'reggae', 'roots reggae']"
+Lioraras,Los Niños De Sara,False,3,26,['rumba']
+Little Drummer Boy,The Almost,False,30,41,"['christian alternative rock', 'neon pop punk', 'screamo']"
+Brother Brick Says,Claw Hammer,False,0,1,[]
+Silencio De Aguas Profundas,Alas,False,0,7,"['rock nacional', 'synth prog']"
+Sting Me,The Black Crowes,False,40,54,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'jam band', 'rock', 'southern rock']"
+I See War,IYOV,False,0,0,[]
+The Sun Shine Down My Way,Doug MacLeod,False,0,0,"['acoustic blues', 'blues']"
+Hear Me Talking to You,Maxayn Lewis,False,11,28,[]
+"Neighbor, Neighbor",Jimmy Hughes,False,21,33,['southern soul']
+Mary Had a Little Lamb,Stevie Ray Vaughan,False,57,65,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'rock', 'texas blues']"
+Den Mporo Na Figo - Live,Angela Dimitriou,False,1,21,"['greek pop', 'laiko']"
+Skylark,Ann Hampton Callaway,False,1,22,['contemporary vocal jazz']
+The Wrong Woman,Billy Price & Fred Chapellier,False,0,7,[]
+Man On The Side,Bill Perry,False,0,18,['power blues-rock']
+MVP,Corey,False,6,34,[]
+Vuelve Junto A Mi - Remastered 2005,Los Chichos,False,7,31,"['pop flamenco', 'rumba']"
+The Sun Shines from You,Teenage Fanclub,False,7,24,"['alternative rock', 'modern power pop', 'power pop', 'scottish indie', 'scottish rock', 'shoegaze']"
+Poaki,Nicholas,False,1,7,[]
+Midnight Wind - Mono,Jimmy Wakely,False,4,33,"['arkansas country', 'classic oklahoma country', 'cowboy western', 'western swing']"
+Kick Jump - Part Jump,Cobra Killer,False,1,6,['digital hardcore']
+Toot Toot Dixie Bound,Birmingham Jubilee Singers,False,0,0,"['gospel singers', 'vintage gospel']"
+Smile,Marvin Sapp,True,6,34,['gospel']
+There Is a Way,Jeff & Sheri Easter,False,2,28,"['family gospel', 'southern gospel']"
+Ghastly Indoctrination,Dark Fortress,False,5,18,"['black metal', 'german black metal', 'melodic black metal']"
+Rise,Eddie Turner,False,0,0,['power blues-rock']
+Battle Of The Tom Tom,Shaman,False,0,3,['nordic folk metal']
+Informer,Sugar Minott,False,12,17,"['dub', 'lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Tenderly,Billie Holiday,False,40,67,"['adult standards', 'harlem renaissance', 'jazz', 'jazz blues', 'soul', 'swing', 'torch song', 'vocal jazz']"
+Ice Cream Cakes,Jeff Beck,False,21,33,"['album rock', 'blues', 'blues rock', 'british blues', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'jazz fusion', 'progressive rock']"
+戀愛天才,Kary Ng,False,2,40,['cantopop']
+Better Off That Way,Steve Smith,False,0,1,[]
+Groove It,Gene Latter,False,0,0,['northern soul']
+Get On Our Own - 1996 Remastered Version,Buzzcocks,False,19,34,"['alternative rock', 'britpop', 'madchester', 'new wave', 'post-punk', 'punk', 'uk post-punk']"
+Rossignol Montmartrois - Polka,Jo Privat,False,0,9,"['bal-musette', 'jazz accordion']"
+Anybody Seen My Girl,Keb' Mo',False,25,43,"['acoustic blues', 'blues', 'country blues', 'electric blues', 'modern blues', 'piedmont blues']"
+Ku Klux Klan,Steel Pulse,False,20,25,"['reggae', 'roots reggae', 'uk reggae']"
+A Girls Oath,Eluveitie,False,17,46,"['celtic metal', 'folk metal', 'gothic metal', 'gothic symphonic metal', 'hurdy-gurdy', 'power metal', 'swiss metal', 'symphonic metal']"
+Shape of My Heart,Backstreet Boys,False,70,69,"['boy band', 'dance pop', 'pop']"
+Lively Up Yourself,Bob Marley & The Wailers,False,52,62,"['reggae', 'roots reggae']"
+I denna ljuva sommartid,Sofia Karlsson,False,1,12,"['classic swedish pop', 'folkmusik', 'swedish jazz', 'swedish singer-songwriter']"
+Because Of You,CeCe Winans,False,30,46,['gospel']
+Just My Baby,Rickie Lee Jones,False,20,35,"['folk', 'singer-songwriter']"
+Maybe Someday,Simply Red,False,20,46,"['british soul', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop']"
+Letters to Norway,Planetakis,False,0,2,['solipsynthm']
+Spoonful - Live,Robben Ford,False,5,15,"['blues', 'electric blues', 'jazz blues', 'jazz fusion', 'modern blues', 'soul blues']"
+Silence,Mothers Pride,False,0,2,[]
+Absolute Horizon,Byzantine,False,0,3,"['groove metal', 'west virginia metal']"
+"Bright Lights, Big City",Max B,False,22,24,['nyc rap']
+Turnpike,Halfway to Gone,False,10,15,"['alternative roots rock', 'retro metal']"
+Life Is Real,Ayọ,False,38,47,['neo soul']
+The First Leaves of Autumn,The Fureys,False,24,45,['irish folk']
+By Faith I Can Touch Him Now,The Perrys,False,1,6,"['family gospel', 'southern gospel']"
+Passover - 2020 Digital Master,Joy Division,False,36,46,"['alternative rock', 'indie rock', 'madchester', 'new wave', 'post-punk', 'punk', 'rock', 'uk post-punk']"
+Communication - More Mix,Mario Più,False,3,4,"['italian trance', 'italo dance']"
+Rock & Roll Renegade,The Frantic,False,0,3,[]
+Soo Bawlz - 2010 Remaster,DEVO,False,9,28,"['alternative rock', 'art punk', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'post-punk', 'synth punk', 'synthpop', 'zolo']"
+Genius,Kings of Leon,False,35,59,"['modern rock', 'rock']"
+Evil Hearted Ada,Flamin' Groovies,False,14,33,"['power pop', 'protopunk']"
+紀念品,Candy Lo,False,0,5,['cantopop']
+Studio Dialogue - #19,The Stooges,False,0,15,"['alternative rock', 'detroit rock', 'permanent wave', 'protopunk', 'punk']"
+Roll Back the Clouds,Christie Hennessy,False,30,32,"['irish country', 'irish folk']"
+Introduction,Marga Gomez,False,0,0,['comedienne']
+Oriza Eh,Roberto Roena Y Su Apollo Sound,False,12,47,['salsa']
+My Party - Chad Hugo/Kenna Remix,Kings of Leon,False,14,16,"['modern rock', 'rock']"
+Hole in the Coal (Alternate Take),Pentangle,False,1,24,"['british folk', 'folk rock', 'psychedelic folk']"
+Suite nupcial - Directo Enjoy 07,Jaime Urrutia,False,6,32,"['spanish new wave', 'spanish pop']"
+"Scenario (feat. Busta Rhymes, Dinco D & Charlie Brown) - LP Mix",A Tribe Called Quest,False,55,67,"['conscious hip hop', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'jazz rap', 'queens hip hop']"
+Evalia,Placebo,False,12,36,"['alternative rock', 'britpop', 'permanent wave', 'rock']"
+Boulevard In Heaven,Barbara Fairchild,False,0,1,"['arkansas country', 'classic country pop', 'country gospel']"
+Two Four One,Dave & Ansell Collins,False,4,39,['early reggae']
+Stagger Lee,Nick Cave & The Bad Seeds,False,39,55,"['alternative rock', 'permanent wave', 'singer-songwriter']"
+Thresh Hold,Uphill Battle,False,0,1,['american grindcore']
+Neir,Mau Mau,False,0,2,"['folk rock italiano', 'musica etnica', 'musica piemonteisa']"
+Survivalism,Nine Inch Nails,False,32,43,"['alternative metal', 'alternative rock', 'cyberpunk', 'electronic rock', 'grunge', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']"
+Sarah Palin (I Wanna Lay Pipe) - Instrumental,John Brown,False,0,0,[]
+Nowhere To Run,Michael McDonald,False,17,47,"['mellow gold', 'soft rock', 'yacht rock']"
+Chlore,Pascal Obispo,False,5,44,"['chanson', 'french pop']"
+AquaCityBoy,K-OS,False,5,29,"['alternative hip hop', 'canadian hip hop', 'canadian old school hip hop']"
+Santa Claus Is Coming To Town,Buddy Miles,False,6,12,"['psychedelic soul', 'rock drums']"
+Fat Tianne,Tanto Metro & Devonte,False,6,33,"['dancehall', 'jamaican dancehall']"
+Houston Anthem,DJ Nasty,False,0,1,['ghettotech']
+Til The Storm Passes By,Bill & Gloria Gaither,False,6,29,['southern gospel']
+Width Of The World,Tin Hat Trio,False,4,21,"['indie jazz', 'modern chamber music']"
+Music Of The Sun,Rihanna,False,34,75,"['barbadian pop', 'pop', 'urban contemporary']"
+More Than One Love - Extra Bonus Version,Venice,False,0,0,[]
+Street Lights,Kanye West,False,60,81,"['chicago rap', 'hip hop', 'rap']"
+Fire - Orange Factory Dub,Dolce,False,0,5,[]
+Pegadito,Tommy Torres,False,44,45,"['latin pop', 'puerto rican pop']"
+Curiosity,The Jets,False,13,51,"['freestyle', 'minneapolis sound']"
+Cuando Ya Me Empiece a Quedar Solo,Sui Generis,False,41,55,"['argentine rock', 'rock nacional']"
+La Matanza,Grace Gale,False,2,9,['screamocore']
+Medley final (Live),Kassav',False,10,17,"['musique guadeloupe', 'zouk']"
+Beautiful,Eminem,False,67,76,"['detroit hip hop', 'hip hop', 'rap']"
+Juggernaut,Cauda Pavonis,False,0,5,['corrosion']
+On Tha Rox,King Tee,False,11,34,"['g funk', 'old school hip hop', 'west coast rap']"
+I Used to Love You (But It's All Over Now),Bing Crosby,False,28,43,"['adult standards', 'easy listening', 'lounge', 'swing']"
+No More Troubles,Sunnyland Slim,False,0,2,"['chicago blues', 'delta blues', 'piano blues']"
+Two Sided Politics,Suicidal Tendencies,False,41,57,"['alternative metal', 'california hardcore', 'crossover thrash', 'funk metal', 'hard rock', 'hardcore punk', 'metal', 'nu metal', 'old school thrash', 'punk', 'thrash metal']"
+Firedance,Mystic Rhythms Band,False,0,0,['world chill']
+The Keys,Jerry Goldsmith,False,3,17,"['classic soundtrack', 'orchestral soundtrack', 'soundtrack']"
+Prelude In C Minor From The Well Tempered-Clavier,Johann Sebastian Bach,False,11,24,"['baroque', 'classical', 'early music', 'german baroque']"
+Love Can Run Faster,Robert Palmer,False,13,51,"['album rock', 'classic rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'yacht rock']"
+Juste une fois - Version instrumentale,Alexis HK,False,0,0,"['french folk pop', 'french rock', 'nouvelle chanson francaise']"
+New Detroit,Neon Blonde,False,7,20,['sasscore']
+Proud,Korn,False,31,57,"['alternative metal', 'funk metal', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']"
+Hopelessly,Epitaph,False,3,14,"['german hard rock', 'german prog', 'german rock', 'psychedelic blues-rock']"
+da da Diamonds,Soul Ballet,False,11,26,['smooth jazz']
+The Blue Side of The Sun,Sigmatropic,False,0,3,[]
+Platoon Goons,Snowgoons,False,6,23,"['flick hop', 'underground rap']"
+Nigun,Kol Simcha,False,0,3,[]
+Questo sporco mondo meraviglioso - String and Chorus Version,Piero Umiliani,False,20,19,['vintage italian soundtrack']
+Paul - Skit,Eminem,False,38,83,"['detroit hip hop', 'hip hop', 'rap']"
+Up Close and Personal,Bukue One,False,0,0,[]
+Stay Awhile,Danny Williams,False,0,0,[]
+Have You Got a Minute to Spare,Mikey Dread,False,2,39,"['dub', 'old school dancehall', 'reggae', 'roots reggae']"
+Liar in the Glass (feat. Diamond Geezer & N8loc) - UK Remix,Eyes Set To Kill,False,1,7,"['metalcore', 'pixie', 'screamo']"
+Dolorosa - Live,Cali,False,4,19,"['chanson', 'french pop', 'french rock', 'nouvelle chanson francaise']"
+Ooh Baby (feat. Lil Bandit & Royal T),Mr. Sancho,False,0,8,['chicano rap']
+Pantera Fans In Love,Nerf Herder,False,25,34,"['power-pop punk', 'socal pop punk']"
+Looking For Clues,Robert Palmer,False,41,53,"['album rock', 'classic rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'yacht rock']"
+Personne Stop - Feat. Nixon,Royal S,False,0,0,['jumpstyle']
+After The Dark,Jimmy McGriff,False,1,2,"['hammond organ', 'jazz funk', 'jazz organ', 'soul jazz']"
+Girls All Pause,Kurupt,False,27,45,"['g funk', 'west coast rap']"
+懂事,Stefanie Sun,False,17,57,"['mandopop', 'singaporean mandopop', 'singaporean pop', 'singaporean singer-songwriter']"
+Death Of Neira,Nightfall,False,1,4,['greek metal']
+My Lord - Screwed & Chopped,David Banner,False,0,5,"['conscious hip hop', 'crunk', 'dirty south rap', 'mississippi hip hop', 'southern hip hop']"
+Whispering Grass,The Knightsbridge Strings,False,0,0,[]
+Occasional Rain,Terry Callier,False,10,32,[]
+Quieres Ver Llorar Otra Vez A Mi Corazón,Grupo Abracadabra,False,10,55,['grupero romantico']
+Endless Ocean,Event Horizon,False,5,10,[]
+Ya Got Me,Leonard Bernstein,False,1,18,"['american modern classical', 'classical', 'orchestral performance']"
+The High And The Mighty,Roger Williams,False,37,40,['easy listening']
+Again,Janet Jackson,False,54,64,"['dance pop', 'r&b', 'urban contemporary']"
+Tobacco Spit,Bare Jr.,False,2,16,[]
+Just One Of Those Things,Dionne Warwick,False,2,16,"['adult standards', 'brill building pop', 'disco', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']"
+...and Heavens Cried Blood,Swallow The Sun,False,23,39,"['doom metal', 'finnish death metal', 'finnish doom metal', 'finnish melodeath', 'finnish metal', 'melodic death metal']"
+Domino,KISS,False,42,52,"['glam rock', 'hard rock', 'rock']"
+Where in the World,Tony Martin,False,0,0,['deep adult standards']
+Dedicado,Miguel Gallardo,False,33,35,"['pop romantico', 'ranchera']"
+To Your Arms Of Love,Jah Cure,False,8,26,['reggae fusion']
+Aguas Claras de Olimpos,Pescado Rabioso,False,25,47,"['argentine rock', 'rock nacional']"
+Appapas Del Calabar,Los Van Van,False,14,44,"['cuban funk', 'cuban rumba', 'salsa', 'salsa cubana', 'timba']"
+Side Street,Viktor Krauss,False,1,12,[]
+Moonlight Lover,Barbara Jones,False,0,16,['lovers rock']
+Think About Me,Sister Hazel,False,14,58,"['neo mellow', 'pop rock', 'post-grunge']"
+Meat Parade,Lockwood,False,0,0,[]
+Even If I Tried,Emilio,False,22,27,[]
+Watermelon Man - Live At The Fillmore Auditorium / 1968 / Remastered 2024,Albert King,False,11,18,"['blues', 'blues rock', 'electric blues', 'memphis soul', 'soul blues', 'traditional blues']"
+Flamenco Sketches (Intro),Jason Miles,False,0,3,[]
+Mumbling or hearing loss?,Jeanne Robertson,False,5,14,"['clean comedy', 'comedienne']"
+Turn It Around,Bob Neuwirth,False,0,4,['alternative roots rock']
+Summer Of Love,Novaspace,False,6,35,"['cantaditas', 'eurodance']"
+Escuta Noel,Maysa,False,0,0,['velha guarda']
+Saved,9th Wonder,False,6,21,"['alternative hip hop', 'hip hop', 'instrumental hip hop', 'north carolina hip hop']"
+Love Is Gonna Get You,Ben E. King,False,0,1,"['rock-and-roll', 'soul']"
+Light of a Clear Blue Morning,Dolly Parton,False,16,30,"['classic country pop', 'country', 'country dawn']"
+Se Acabo el Carbon,Orquesta Sublime,False,0,0,"['cuban rumba', 'musica tradicional cubana']"
+Somebody Loan Me A Dime - Remastered,Fenton Robinson,False,55,58,"['blues', 'electric blues', 'louisiana blues', 'swamp blues', 'traditional blues']"
+SOS,Rihanna,False,76,75,"['barbadian pop', 'pop', 'urban contemporary']"
+Caught In The Crossfire,April Wine,False,19,45,"['album rock', 'classic canadian rock', 'classic rock', 'glam metal', 'hard rock']"
+High-Speed French Train,Alexandre Desplat,False,29,50,"['french soundtrack', 'orchestral soundtrack', 'soundtrack']"
+Books & Books,The Almost,False,8,26,"['christian alternative rock', 'neon pop punk', 'screamo']"
+記憶的花園,Leon Lai,False,4,31,"['c-pop', 'cantopop', 'classic cantopop']"
+Didgeralia,David Hudson,False,0,0,['didgeridoo']
+Alone in Love,Craig Wedren,False,0,3,[]
+"Who Did You Think I Was - Live at the Nokia Theatre, Los Angeles, CA - December 2007",John Mayer,False,42,68,"['neo mellow', 'singer-songwriter']"
+Stood Up,Floyd Cramer,False,19,34,"['easy listening', 'honky-tonk piano', 'nashville sound']"
+Ride Ranger Ride,Roy Rogers,False,3,28,"['cowboy western', 'western swing']"
+Such Grand Ideas,Nybbl,False,0,0,[]
+Down In The Lowlands - Charlie Peacock Album Version,Charlie Peacock,False,0,7,['deep christian rock']
+Bank,Jean Carignan,False,0,10,['folklore quebecois']
+I Hope the Weather Stays Fine - Remix,The Dylans,False,1,19,['madchester']
+Mexican Joe,Jim Reeves,False,20,50,['nashville sound']
+Two Hearts,Phil Collins,False,63,65,"['rock drums', 'soft rock']"
+Lana Lee,The Refreshments,False,7,25,['dansband']
+Ooh Wee Baby,Doyle Bramhall,False,1,12,"['modern blues', 'texas blues']"
+Boo Hoo,KT Tunstall,False,17,36,"['ectofolk', 'lilith', 'neo mellow', 'pop rock', 'scottish singer-songwriter']"
+Losing Love - DJ Wout Remix,Milk Inc.,False,16,48,"['belgian dance', 'eurodance']"
+Jesus Can Work It Out,The Jackson Southernaires,False,9,27,['praise']
+Three Times Seven,Doc & Merle Watson,False,15,35,"['appalachian folk', 'bluegrass', 'progressive bluegrass', 'traditional folk']"
+The Wind (Tears For You),CeCe Winans,False,16,36,['gospel']
+"Good Girls, Bad Guys",DMX,False,38,67,"['detroit hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']"
+(The Grave Prelude),Mobb Deep,False,32,73,"['east coast hip hop', 'hardcore hip hop', 'hip hop', 'queens hip hop']"
+C30 C60 C90 Go,Bow Wow Wow,False,23,33,"['new romantic', 'new wave', 'new wave pop']"
+Exodus,Quincy Jones,False,18,35,['soul jazz']
+Harlem Nocturne,Earle Hagen,False,9,16,['space age pop']
+Dogs,George Lopez,False,12,29,"['comedy', 'latino comedy']"
+La machine,Pascal Obispo,False,5,28,"['chanson', 'french pop']"
+21st Century Time Bomb,Opiate For The Masses,False,3,13,[]
+Perkiomen,Daryl Hall & John Oates,False,12,24,"['album rock', 'classic rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']"
+Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version,Ricky Martin,False,61,60,"['latin pop', 'mexican pop', 'puerto rican pop']"
+The Reach,White Willow,False,0,2,"['modern progressive rock', 'norwegian prog']"
+My Baby,Bukka White,False,0,6,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'traditional blues']"
+Weighed Down,Plump DJs,False,8,24,"['breakbeat', 'nu skool breaks', 'psybreaks']"
+Try Love,Sugar Minott,False,4,20,"['dub', 'lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Jour de chance - Lucky Day,Sasha,False,17,17,[]
+This Guitar Says Sorry - Alternate Version,Billy Bragg,False,8,41,"['anti-folk', 'folk punk', 'permanent wave', 'singer-songwriter', 'uk americana']"
+Southern Fried,DJ Nasty,False,0,17,['ghettotech']
+Spanish Fly,Fudge Tunnel,False,17,36,"['dub metal', 'sludge metal']"
+The Way I Loved You (Taylor’s Version),Taylor Swift,False,73,85,['pop']
+Ebb Tide,Tony Martin,False,0,0,['deep adult standards']
+Africa,Dusminguet,False,6,28,"['rock catala', 'rumba catalana']"
+Metamorphosis,Amoral,False,1,7,"['finnish death metal', 'finnish progressive metal']"
+Fortune Teller,The Rolling Stones,False,17,34,"['album rock', 'british invasion', 'classic rock', 'rock']"
+Crappy Shop - 50 Cent Diss Track,Forensics,False,0,0,[]
+Way Way Back,Kool Moe Dee,False,8,38,"['east coast hip hop', 'harlem hip hop', 'new jack swing', 'old school hip hop']"
+This Little Child,Scott Wesley Brown,False,14,41,"['classic praise', 'jesus movement']"
+The Munster Cloak,Seamus Egan,False,1,4,"['celtic', 'irish banjo', 'irish folk', 'uilleann pipes']"
+Sweet and Lovely - Remastered,Tiny Tim,False,1,6,"['novelty', 'outsider']"
+Lip Smacker,Poncho Sanchez,False,2,14,"['afro-cuban percussion', 'latin jazz']"
+Ne Thang,Natural Elements,False,1,23,"['deep east coast hip hop', 'golden age hip hop']"
+Standing Knee Deep In A River (Dying Of Thirst),Kathy Mattea,False,26,24,"['classic country pop', 'country', 'country rock', 'deep contemporary country']"
+"Trio (1932), Movement 3: Moderato",STRATA,False,0,0,[]
+Comerte a Besos - Bachata Version,Frankie Negrón,False,12,34,"['bachata dominicana', 'salsa']"
+Intro / Time For Some Action,N.E.R.D,False,27,52,"['hip hop', 'virginia hip hop']"
+Heavy Like Sunday - HTLF version (inc' dialogue),Leona Naess,False,0,2,"['ectofolk', 'lilith']"
+Exiliado en el Lavabo,Estopa,False,45,72,"['pop flamenco', 'rumba', 'spanish pop']"
+Finding My Way,Stanley Clarke,False,11,51,"['electric bass', 'jazz funk', 'jazz fusion']"
+Go Now - Original,Dennis Brown,False,0,0,"['lovers rock', 'reggae', 'roots reggae']"
+Comme toi - Live Tour et Détours 1994,Carole Fredericks,False,17,37,[]
+Sleepwalker,Nightwish,False,30,42,"['fantasy metal', 'finnish metal', 'finnish power metal', 'gothic metal', 'gothic symphonic metal', 'opera metal', 'power metal', 'symphonic metal']"
+Like Dylan in the Movies,Belle and Sebastian,False,43,52,"['alternative rock', 'baroque pop', 'chamber pop', 'indie rock', 'melancholia', 'scottish indie', 'scottish rock', 'singer-songwriter', 'twee pop']"
+How U Want It,Ya Boy,False,0,0,[]
+Who Can Handle Me Is You,Little Milton,False,2,16,"['electric blues', 'memphis soul', 'soul blues', 'southern soul']"
+El Terror,Orquesta Harlow,False,3,11,"['latin jazz', 'salsa', 'salsa international']"
+The Earth Will Shake,Thrice,False,33,46,"['post-hardcore', 'screamo']"
+The Think Drink Theme,The Harvey Averne Dozen,False,1,22,['boogaloo']
+Bamboo Blue,Steven Halpern,False,1,6,"['healing', 'meditation', 'sleep']"
+Hunter,Thirty Seconds To Mars,False,31,61,"['modern rock', 'post-grunge']"
+All My Senses,Mando Diao,False,25,46,"['dalarna indie', 'swedish garage rock', 'swedish indie rock']"
+Tatter Jack Walsh,The Russell Family,False,0,1,['concertina']
+Lose This Skin - Remastered,The Clash,False,26,55,"['alternative rock', 'permanent wave', 'punk', 'rock']"
+Lullaby,The Chicks,False,44,58,"['contemporary country', 'country', 'country dawn']"
+Here with Me,Arika Kane,False,3,4,[]
+Dancing with Ghosts,Epitaph,False,0,1,"['german hard rock', 'german prog', 'german rock', 'psychedelic blues-rock']"
+Every Other Way [Mix Cut] - Armin van Buuren Remix,BT,False,13,25,"['progressive house', 'progressive trance', 'trance']"
+No One Hears You,Agnostic Front,False,5,22,"['chicano punk', 'crossover thrash', 'hardcore', 'hardcore punk', 'nyhc', 'old school thrash', 'punk']"
+Stranded In The Jungle - Alternate Version,New York Dolls,False,27,35,"['early us punk', 'glam punk', 'glam rock', 'protopunk', 'punk']"
+Air On A Six String,Oscar Castro-Neves,False,2,13,['bossa nova']
+Touch You,Sandy Posey,False,1,33,['nashville sound']
+Rendez-Vous,Harry Diboula,False,1,17,"['kizomba antigas', 'zouk']"
+Wow,Snow Patrol,False,31,62,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']"
+Les femmes des autres - Remastered 2004,Jacques Dutronc,False,0,13,"['chanson', 'ye ye']"
+"Carnival (from ""Black Orpheus"") - from ""Black Orpheus""",Tito Puente,False,0,6,"['afro-cuban percussion', 'jazz puertorriqueno', 'latin jazz', 'mambo', 'musica tradicional cubana', 'salsa']"
+You Make Me Feel Good - Radio Edit,JK,False,25,42,"['deep eurodance', 'hip house']"
+"Bibo no Aozora, Endless Flight, Babel - Remix Version",Gustavo Santaolalla,False,28,24,[]
+Black Diamond,Taking Dawn,False,0,1,[]
+Poem to a Horse,Shakira,False,40,74,"['colombian pop', 'dance pop', 'latin pop', 'pop']"
+Underlying Lies,Scott Matthews,False,4,10,['chamber pop']
+What If,Approaching Nirvana,False,14,24,[]
+Our Sand,Vusi Mahlasela,False,0,9,['south african jazz']
+Sweet Contradiction,Aaron Watson,False,6,28,"['classic texas country', 'country road', 'red dirt', 'texas country']"
+666lb. Bongsession,Bongzilla,False,25,37,"['doom metal', 'drone metal', 'sludge metal', 'stoner metal', 'stoner rock']"
+Vogue - MDNA World Tour / Live 2012,Madonna,False,34,43,"['dance pop', 'pop']"
+Dysfunction,Liquid Soul,False,5,17,['instrumental funk']
+Once a Year,Beenie Man,False,8,21,"['dancehall', 'jamaican dancehall', 'reggae fusion', 'soca']"
+Hesitate,MyKungFu,False,0,0,['swiss singer-songwriter']
+Katie,Mary Black,False,33,44,"['celtic', 'irish folk']"
+No Sympathy For Fools,Behemoth,False,25,32,"['black metal', 'death metal', 'groove metal', 'metal', 'pagan black metal', 'polish black metal', 'polish death metal', 'polish metal']"
+The Kingdom - Titles,Danny Elfman,False,6,31,"['orchestral soundtrack', 'soundtrack']"
+Ethiopian Serenade,Mystic Revelation Of Rastafari,False,2,10,['nyahbinghi']
+Latinas,Flora Purim,False,8,24,['brazilian jazz']
+I Am Your Mother Too,Keb' Mo',False,8,23,"['acoustic blues', 'blues', 'country blues', 'electric blues', 'modern blues', 'piedmont blues']"
+Dangerous Dance,Dolores Keane,False,8,19,"['celtic', 'irish folk']"
+Rock America,Danger Danger,False,35,46,['glam metal']
+My Soul Is Gonna Live With God,Josh White,False,0,0,[]
+Where Is The Love?,Bobby Broom,False,0,3,['jazz guitar']
+Ultra-Funk,Los Amigos Invisibles,False,34,44,"['latin afrobeat', 'latin alternative', 'latin funk', 'latin rock', 'rock en espanol', 'venezuelan indie', 'venezuelan rock']"
+Living Again,John Wesley Ryles,False,0,1,[]
+La Alegria del Batallon Cancion y Guajiras,Simeon José Serrano,False,0,1,[]
+Kalanta,Despina Vandi,False,32,28,"['greek pop', 'laiko']"
+Nehi Mamma Blues,Frank Stokes,False,0,0,"['country blues', 'memphis blues', 'traditional blues']"
+Presenting The Eight Wonder Of The World,Max Steiner,False,0,0,['classic soundtrack']
+"Smile from ""Modern Times"" (1936)",Charlie Chaplin,True,6,36,['classic soundtrack']
+Fell In Love Today,Lee Michaels,False,0,5,['hammond organ']
+Voices Inside My Head,The Police,False,41,69,"['album rock', 'classic rock', 'permanent wave', 'rock']"
+Hidden Sun,Room 5,False,11,53,"['disco house', 'vocal house']"
+You Turn Me,Vickie Winans,False,2,32,['gospel']
+Sacred,Moonspell,False,10,15,"['gothic black metal', 'gothic metal', 'melodic death metal', 'metal', 'portuguese black metal', 'portuguese metal', 'portuguese rock', 'power metal']"
+Rain Love,Al Denson,False,2,14,['deep christian rock']
+Nomades monades,Frederic Galliano,False,1,6,[]
+Mosquito Coil,Zeromancer,False,6,21,['industrial metal']
+The Last Stand,Statues,False,1,4,[]
+Hold on Tight - Nalin & Kane Remix,Lambda,False,34,31,['bubble trance']
+I Never Know,Singing Melody,False,0,32,"['deep ragga', 'lovers rock', 'old school dancehall', 'roots reggae']"
+How Long Will It Take,Warner Mack,False,2,27,"['classic country pop', 'traditional country']"
+Something About Mary,Wyclef Jean,False,25,52,['rap kreyol']
+Aunque Tu Mami No Quiera,Grupo Sierra Maestra,False,0,13,"['musica tradicional cubana', 'son cubano']"
+The Process Revealed,Roj,False,0,14,"['british experimental', 'hauntology', 'uk experimental electronic']"
+Night Is the Notion,Dax Riggs,False,26,38,['swamp rock']
+Police Opression,The Bruisers,False,3,11,"['american oi', 'boston punk', 'oi']"
+God Lead Us Along - Homecoming Hymns Version,Bill & Gloria Gaither,False,1,12,['southern gospel']
+Sympathy,Sylver,False,25,35,"['belgian dance', 'eurodance']"
+Persuasion,Santana,False,37,63,"['blues rock', 'classic rock', 'mexican classic rock']"
+1987,2 minutos,False,14,35,"['argentine punk', 'argentine rock', 'latin alternative', 'ska argentino']"
+Mona Lisa,Moon Mullican,False,0,1,"['country boogie', 'western swing']"
+Nervous Breakdown,Nerf Herder,False,8,28,"['power-pop punk', 'socal pop punk']"
+"In Our Hands, Once Again",Dead Hearts,False,0,1,['melodic hardcore']
+Sin Poderte Hablar,Huey Dunbar,False,24,47,"['modern salsa', 'salsa']"
+He Who Breeds Pestilence,Behemoth,False,17,42,"['black metal', 'death metal', 'groove metal', 'metal', 'pagan black metal', 'polish black metal', 'polish death metal', 'polish metal']"
+Nom Nom Nom,Hot Chip,False,47,45,"['alternative dance', 'dance rock', 'electronica', 'indie rock', 'indietronica', 'neo-synthpop', 'new rave']"
+I Will Shelter You,Bob Carlisle,False,5,42,[]
+Generation Aliens,Lizzy Borden,False,5,16,"['glam metal', 'speed metal', 'us power metal']"
+He Will Break Your Heart,Delbert McClinton,False,2,25,"['classic texas country', 'country rock', 'electric blues', 'harmonica blues', 'modern blues', 'roots rock', 'southern rock']"
+School,Nirvana,False,58,76,"['grunge', 'permanent wave', 'rock']"
+Realizer,The Crystal Method,False,37,47,"['big beat', 'breakbeat', 'electronica']"
+The Urge to Merge,Kate Clinton,False,0,0,['comedienne']
+Milk Cow Blues,Cliff Bruner's Texas Wanderers,False,0,8,[]
+"Part 1 (19 Flowerpots, 2 Hammered, Dulcimers, Bavarian Zither, Shakuhachi)",Stephan Micus,False,3,8,['arab folk']
+Devon,Gabriel Yared,False,1,10,['french soundtrack']
+White Feather,Wolfmother,False,9,28,"['alternative rock', 'australian psych', 'garage rock', 'modern blues rock', 'modern rock', 'rock']"
+Gumby Killed The Dinosaur - House Mix,Pumpkin Buzzard,False,0,0,[]
+This Kind Of Love - Full Band,Sister Hazel,False,5,4,"['neo mellow', 'pop rock', 'post-grunge']"
+Dreamer - Jamie J Sanchez Club Mix,Janice Robinson,False,0,0,['deep vocal house']
+零時十一分,Edmond Leung,False,1,19,"['cantopop', 'classic cantopop']"
+Puedes ser feliz,Sol,False,0,0,[]
+Big Time Charlie,Cockney Rejects,False,1,11,"['oi', 'punk']"
+Night Life,Charlie McCoy,False,1,15,['harmonica blues']
+How I Miss You Tonight,Adolph Hofner,False,0,13,['western swing']
+My Lady,Lee Michaels,False,2,9,['hammond organ']
+Somebody Sing,Wayne Watson,False,0,2,"['classic praise', 'deep christian rock']"
+One Day At A Time,Cumberland Quartet,False,0,2,['southern gospel']
+C.U.L.A.T.E.R. - Deckard 88 Remix,Turner Burton,False,0,3,[]
+Apples in the Trees - Live,Mirah,False,0,4,['olympia wa indie']
+Coming Undone,Tantric,False,33,32,"['alternative metal', 'nu metal', 'post-grunge']"
+Like a Deck of Cards,Bedwetters,False,3,10,['estonian pop']
+Here We Are,The Refreshments,False,10,16,['dansband']
+The Carpal Tunnel Of Love,Fall Out Boy,False,50,77,"['emo', 'modern rock', 'pop', 'rock']"
+Just Keep It Up,Dee Clark,False,17,14,"['chicago soul', 'doo-wop', 'rhythm and blues']"
+I Wanna Hear It From You - Digital Re-Recording,Eddy Raven,False,6,34,['classic country pop']
+Party for Pink,蜜雪薇琪,False,0,20,"['mandopop', 'taiwan idol pop', 'taiwan pop']"
+Only You - Chimi-Changa Club Mix,Sulk,False,0,3,[]
+Smoke - (Wil Mancia Remix) [Mixed],Trafik,False,1,15,[]
+Heather,Floor,False,0,9,"['drone metal', 'miami metal', 'post-doom metal', 'post-metal', 'sludge metal']"
+Slaughter The Gods,The Accursed,False,0,0,[]
+Silent Night,Sergio Franchi,False,23,30,['italian tenor']
+Lady Marmalade,Mongo Santamaria,False,12,21,"['afro-cuban percussion', 'boogaloo', 'cuban rumba', 'jazz cubano', 'latin jazz', 'musica tradicional cubana']"
+Oblivious Darkness,Astarte,False,2,8,"['greek metal', 'melodic black metal', 'slayer', 'symphonic black metal']"
+Tomorrow Never Knows,Dwight Twilley,False,0,1,"['power pop', 'underground power pop']"
+Come Along,Johnny Osbourne,False,3,39,"['dub', 'lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Ostravaczech,Kryštof,False,5,27,"['czech pop', 'czech pop rock', 'czech rock']"
+So Fresh,Tum Tum,False,0,3,"['dfw rap', 'dirty south rap', 'houston rap']"
+Banho De Amor,Moraes Moreira,False,0,0,"['bossa nova', 'mpb', 'samba', 'velha guarda']"
+Angel Of Light - Never Say Die Album Version,Petra,False,15,33,"['christian alternative rock', 'christian metal', 'christian music', 'jesus movement', 'rock cristiano']"
+Regresa a Mí (Unbreak My Heart),Yuridia,False,36,50,"['latin arena pop', 'latin pop', 'mexican pop']"
+Party in the Sky,Inspiral Carpets,False,8,41,"['britpop', 'madchester']"
+Dream Lover,Plasmatics,False,6,23,['hardcore punk']
+Storm In My Heart,Dolores Keane,False,17,34,"['celtic', 'irish folk']"
+"Enough Rope: No. 1. Social Note, ""Lady, lady should you meet""",John Musto,False,0,3,[]
+Kettle Black,Bleed The Sky,False,5,23,"['groove metal', 'melodic metalcore']"
+"California, Gracefully",Every Time I Die,False,9,23,"['buffalo ny metal', 'chaotic hardcore', 'melodic metalcore', 'post-hardcore', 'screamo']"
+One I Love,Coldplay,False,33,42,"['permanent wave', 'pop']"
+Narcotic,Methods of Mayhem,False,16,41,"['rap metal', 'rap rock']"
+Might As Well Laugh,Aftermath,False,0,0,[]
+Still I Will (Be Merry),Lisa Lynne,False,4,16,"['celtic harp', 'healing', 'new age']"
+"Short Fanfare for the Air Force, ""Short Air Fanfare""",Albert Ketèlbey,False,0,5,['post-romantic era']
+Isolate,ZO2,False,2,4,[]
+Sag Ihnen Bescheid,Headliners,False,6,30,[]
+Bad Dreams,Lyrics Born,True,34,32,['turntablism']
+This Is How A Heart Breaks,Joe McBride,False,0,22,['smooth jazz']
+Praying for Time - Remastered,George Michael,False,54,65,"['new wave pop', 'soft rock']"
+Crash and Burn - Home Demo,Funeral For A Friend,False,8,37,"['post-hardcore', 'screamo', 'uk post-hardcore']"
+Bare As You Dare,Lady Saw,False,1,27,"['dancehall', 'dancehall queen', 'reggae fusion']"
+Ilta Oulunjoella,Tulipunaruusut,False,12,24,"['classic finnish pop', 'classic iskelma', 'humppa']"
+It Only Takes Two to Tango,The Stranglers,False,18,65,"['glam rock', 'new romantic', 'new wave', 'new wave pop', 'protopunk', 'pub rock', 'zolo']"
+Monkey & Turtle,David Hudson,False,0,2,['didgeridoo']
+Night Time,Hot Club of Detroit,False,0,11,['gypsy jazz']
+Love Is Taking Hold,Al Denson,False,0,8,['deep christian rock']
+We Are Not Impartial,The Chap,False,0,6,"['british experimental', 'experimental pop']"
+"""Little"" Louie Bonus",The Bucketheads,False,4,54,"['classic house', 'disco house', 'vocal house']"
+Paralyzed,The Cardigans,False,32,68,"['lilith', 'new wave pop', 'permanent wave', 'pop rock', 'swedish pop']"
+Weekend,The Dictators,False,9,26,"['early us punk', 'glam punk', 'protopunk', ""punk 'n' roll""]"
+Make Me Bad,Korn,False,62,72,"['alternative metal', 'funk metal', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']"
+Revelations: Visions In A Dream,Tom Cochrane,False,0,2,"['canadian singer-songwriter', 'classic canadian rock', 'mellow gold']"
+Choro II - Instrumental,Charlie Byrd,False,10,17,"['bossa nova', 'jazz guitar']"
+Maldita Miseria (Vendiste Los Güeyes),Mercedes Castro,False,32,50,['ranchera']
+An Mouvman,Kassav',False,22,49,"['musique guadeloupe', 'zouk']"
+Money In Da Bank,Tum Tum,False,0,11,"['dfw rap', 'dirty south rap', 'houston rap']"
+Beaux parleurs,Clarisse Lavanant,False,1,7,['breton folk']
+Seven Days Of Heaven,The Knack,False,0,11,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new wave', 'new wave pop', 'power pop', 'soft rock']"
+Pour Jane - Live acoustique,Cali,False,1,12,"['chanson', 'french pop', 'french rock', 'nouvelle chanson francaise']"
+Wrapped Around Your Finger - Remastered 2003,The Police,False,59,84,"['album rock', 'classic rock', 'permanent wave', 'rock']"
+"Raining on the Cold, Cold Ground",Lonnie Johnson,False,0,16,"['acoustic blues', 'blues', 'country blues', 'jazz blues', 'louisiana blues', 'memphis blues', 'new orleans blues', 'traditional blues']"
+Nice Ride - Live on WFNX,Orbit,False,0,0,[]
+Degrees of Freedom,Rhian Sheehan,False,2,14,"['compositional ambient', 'nz electronic', 'oceania soundtrack']"
+"The Way We Were (From ""The Way We Were"") [Arr. E. Knight for Orchestra] - Instrumental",Marvin Hamlisch,False,8,19,"['broadway', 'classic soundtrack']"
+"Gwendolina (From ""Il y a des anges"")",Line Renaud,False,0,0,"['vintage chanson', 'ye ye']"
+New Pony,Bob Dylan,False,29,47,"['classic rock', 'country rock', 'folk', 'folk rock', 'rock', 'roots rock', 'singer-songwriter']"
+El Manisero,Orlando Pops Orchestra,False,0,0,['pops orchestra']
+Pray On,Babbie Mason,False,34,30,['classic praise']
+"Um, Um, Um, Um, Um, Um (Curious Mind) (Rerecorded)",Major Lance,False,3,2,"['chicago soul', 'northern soul']"
+De Onda,Bersuit Vergarabat,False,31,62,"['argentine rock', 'latin alternative', 'latin rock', 'ska argentino']"
+My Mind Got Bad,Yank Rachell,False,0,0,"['country blues', 'jug band']"
+FEZ / Being Born,U2,False,25,51,"['irish rock', 'permanent wave', 'rock']"
+Olhos Ciganos,Luiz Bonfá,False,2,14,"['bossa nova', 'brazilian jazz', 'jazz guitar', 'samba-jazz', 'violao']"
+Writing Paper Blues,Blind Willie McTell,False,6,29,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'piedmont blues', 'traditional blues']"
+So Small,Hushabye Baby,False,5,15,['lullaby']
+Over The Edge,Akon,False,38,78,['dance pop']
+Raining On Our Love,Shania Twain,False,26,67,"['canadian country', 'canadian pop', 'contemporary country', 'country', 'country dawn']"
+All For Nothing,Since The Flood,False,1,11,['beatdown']
+My Melody Of Love,Ray Conniff,False,11,20,['easy listening']
+Les Grande Bois,Jo-El Sonnier,False,1,14,"['cajun', 'swamp pop', 'zydeco']"
+Prison Bound Blues,David Evans,False,0,0,[]
+Joking,Speaker,False,0,5,['svensk indie']
+Water Blazz - Chill House Mix,Angel,False,0,2,[]
+Safe Passage,Michael Gettel,False,6,27,"['new age', 'new age piano']"
+What Child Is This?,Gold City,False,11,21,['southern gospel']
+Lagian Ne Maujan,Faiz Ali Faiz,False,0,0,"['qawwali', 'sufi']"
+Fantasie - Extended Version,Paso Doble,False,1,44,['neue deutsche welle']
+Wake the Sleeper - Live,Uriah Heep,False,1,4,"['album rock', 'blues rock', 'classic rock', 'hard rock', 'progressive rock', 'symphonic rock']"
+Salzanitos,Juan Carlos Baglietto,False,8,30,"['argentine rock', 'folklore argentino', 'rock nacional']"
+Get Money,Mykill Miers,False,0,0,[]
+Start The Fire,Margaret Becker,False,1,13,['deep christian rock']
+Warum rappst du?,Kool Savas,False,0,6,"['german hip hop', 'turkish hip hop']"
+One Eyed Jack,Joe McBride,False,5,19,['smooth jazz']
+Te estoy saboreando,Abracadabra,False,3,9,['musica costarricense']
+EU A4,Stress Assassin,False,1,12,[]
+Olha Pro Céu / São João Na Roça / Fogueira de São João - QUINTETO VIOLADO,QUINTETO VIOLADO,False,0,0,[]
+Seed,Paloalto,False,2,24,['grunge pop']
+Ask Fi War,Bounty Killer,False,8,28,"['dancehall', 'jamaican hip hop', 'reggae fusion']"
+Desde mi cielo,Mägo de Oz,False,53,62,"['celtic metal', 'latin rock', 'medieval rock', 'rock en espanol', 'spanish folk metal', 'spanish metal']"
+You Said You Loved Me,The Orchids,False,6,49,"['c86', 'tape club', 'twee pop']"
+Gone,Sugarbomb,False,1,23,[]
+Into My Eyes,Cherrelle,False,0,24,"['contemporary r&b', 'funk', 'minneapolis sound', 'new jack swing', 'post-disco', 'quiet storm', 'urban contemporary']"
+Intermezzo,Johannes Brahms,False,0,4,"['classical', 'german romanticism', 'late romantic era']"
+Violence in Fluid Triceratops,Arsonists Get All The Girls,False,21,26,"['deathcore', 'melodic metalcore', 'nintendocore', 'trancecore']"
+El Capitan - 1998 Digital Remaster,John Philip Sousa,False,0,11,"['american romanticism', 'concert band']"
+Chorando Baixinho,Yamandu Costa,False,3,20,"['bossa nova', 'choro', 'choro contemporaneo', 'violao', 'violao classico']"
+How Can You Resist It,Teena Marie,False,5,23,"['contemporary r&b', 'funk', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']"
+He Will Break Your Heart,Jerry Butler,False,30,28,"['chicago soul', 'classic soul', 'motown', 'philly soul', 'soul']"
+Die For You,ChopLife SoundSystem,False,15,39,[]
+Up North Trip,Mobb Deep,False,45,73,"['east coast hip hop', 'hardcore hip hop', 'hip hop', 'queens hip hop']"
+Rhumboso,Nestor Torres,False,0,3,"['jazz flute', 'jazz puertorriqueno']"
+Canto Triste,Edu Lobo,False,15,35,"['bossa nova', 'mpb', 'samba', 'velha guarda']"
+Eso No Tiene Remedio,Orquesta Aragón,False,1,28,"['bolero cubano', 'cha-cha-cha', 'charanga', 'danzon', 'latin jazz', 'mambo', 'musica tradicional cubana', 'salsa', 'son cubano clasico']"
+One More Go Round,James Taylor,False,13,44,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']"
+Say Your Prayers,Gang Starr,False,18,44,"['alternative hip hop', 'conscious hip hop', 'east coast hip hop', 'hardcore hip hop', 'hip hop']"
+I Dream Of Chi Chi,Brian Tyler,False,0,7,"['orchestral soundtrack', 'scorecore', 'soundtrack']"
+Dum Dum (Marble Breaks And Iron Bends),The Dee Jays,False,9,10,['swedish rock-and-roll']
+You Tell Me,Johnny Cash,False,22,56,"['arkansas country', 'outlaw country', 'rock']"
+They Held Hands,Mark Mccarron,False,0,0,[]
+Tiempos Dificiles,Juan Carlos Baglietto,False,15,20,"['argentine rock', 'folklore argentino', 'rock nacional']"
+My Way,Little Milton,False,0,20,"['electric blues', 'memphis soul', 'soul blues', 'southern soul']"
+Goodbye - Solo Version,Billy Bragg,False,0,0,"['anti-folk', 'folk punk', 'permanent wave', 'singer-songwriter', 'uk americana']"
+Go Back,Crabby Appleton,False,24,22,[]
+"Piano Concerto No. 1 In G Minor, Op. 25, MWV O7: 1. Molto allegro con fuoco",Felix Mendelssohn,False,11,18,"['classical', 'early romantic era', 'german romanticism']"
+As the Hog Pisseth - Nic Sarno Gabber Mix,All Leather,False,0,1,"['sasscore', 'synth punk']"
+Rock N Roll - Radio Edit,Remi Nicole,False,8,8,[]
+Face to Face,Damita Jo,False,0,0,[]
+Rompan Todo,2 minutos,False,20,43,"['argentine punk', 'argentine rock', 'latin alternative', 'ska argentino']"
+Fin De Semana,Estrellas Cubanas,False,0,1,['son cubano clasico']
+Chime (Edit) - Remastered,Orbital,False,46,42,"['big beat', 'breakbeat', 'electronica', 'intelligent dance music', 'rave']"
+Cutdown,Bongzilla,False,16,32,"['doom metal', 'drone metal', 'sludge metal', 'stoner metal', 'stoner rock']"
+Are We Here? - Edit,Orbital,False,18,33,"['big beat', 'breakbeat', 'electronica', 'intelligent dance music', 'rave']"
+So Beautiful,Jarvis Church,False,7,10,['canadian pop']
+Say Hello,April Wine,False,32,37,"['album rock', 'classic canadian rock', 'classic rock', 'glam metal', 'hard rock']"
+Stay Close To Me,Margaret Becker,False,3,12,['deep christian rock']
+With Strength I Burn,Emperor,False,29,41,"['black metal', 'metal', 'norwegian black metal', 'norwegian metal', 'symphonic black metal', 'symphonic metal', 'technical black metal']"
+"Mega Mosaico de Fruko: El Preso, El Caminante, Tania, El Ausente",Fruko Y Sus Tesos,False,2,47,"['salsa', 'salsa colombiana']"
+Echo,Joe Satriani,False,29,53,"['instrumental rock', 'metal guitar', 'shred']"
+Locomotive (Complicity),Guns N' Roses,False,45,77,"['glam metal', 'hard rock', 'rock']"
+La Palabra Fin,Johnny Pacheco,False,8,12,"['charanga', 'salsa']"
+Crash Course,U.K. Subs,False,10,34,"['hardcore punk', 'oi', 'punk', 'uk82']"
+September Song,Tony Martin,False,0,0,['deep adult standards']
+Missing You For A Mile,Beres Hammond,False,2,9,"['lovers rock', 'reggae', 'roots reggae', 'soca']"
+Strange Fruit,James Carter,False,0,4,['contemporary post-bop']
+Flight Of Earls,Barley Bree,False,0,7,['irish country']
+The Luck You Got,The High Strung,False,44,40,['detroit indie']
+Guided by History,Mithotyn,False,3,15,"['folk metal', 'pagan black metal', 'viking black metal', 'viking metal']"
+Turn It Out,Larry Graham & Graham Central Station,False,12,28,"['funk', 'p funk']"
+笑說想,Leo Ku,False,12,27,['cantopop']
+Serenade,Slim Whitman,False,8,35,"['cowboy western', 'yodeling']"
+Rodriguez Pena (Tango),Jo Privat,False,0,9,"['bal-musette', 'jazz accordion']"
+Hey Joe!,Carl Smith,False,26,37,"['classic country pop', 'honky tonk', 'western swing']"
+Down On Him,The Pursuit Of Happiness,False,6,36,['canadian rock']
+Enough,Storyville,False,10,22,[]
+Melodia Simple,Mancha De Rolando,False,37,59,['argentine rock']
+Destined To Win - Commander Sozo Album Version,DeGarmo & Key,False,28,27,['deep christian rock']
+Ma douleur...,Julie Zenatti,False,3,13,"['chanson', 'french pop']"
+Termina la Feria - Remastered,Gloria Lasso,False,0,4,['cancion melodica']
+Au bout de la marelle,Patrick Bruel,False,14,46,"['chanson', 'french pop', 'variete francaise']"
+Ley Lines,Embrace The End,False,2,11,['brutal deathcore']
+The Memory Stone,Michael Gettel,False,7,12,"['new age', 'new age piano']"
+I Saw an Angel,Pentangle,False,12,36,"['british folk', 'folk rock', 'psychedelic folk']"
+The Mighty Sb - Live,The Michael Landau Group,False,4,18,[]
+Begin The Beguine,Los Tres Diamantes,False,14,44,"['bolero', 'bolero mexicano']"
+Rain from the Skies Mix 2,Delroy Wilson,False,0,0,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Porque Yo Te Amo,Leonardo Favio,False,28,26,"['cancion melodica', 'cantautor', 'pop romantico', 'ranchera']"
+Heaven Only Knows,K-OS,False,18,26,"['alternative hip hop', 'canadian hip hop', 'canadian old school hip hop']"
+Baby Can't Be Found,Bob Margolin,False,0,1,"['acoustic blues', 'blues', 'electric blues', 'modern blues', 'power blues-rock']"
+If You Smile at the Sun,Kitty Kallen,False,0,0,['torch song']
+It Killed Mom - Live,Osees,False,14,27,['neo-psychedelic']
+Lover Come Back to Me,Candlebox,False,31,42,"['alternative metal', 'alternative rock', 'grunge', 'nu metal', 'post-grunge']"
+When,Wilshire,False,0,9,[]
+Disconnected,Cowboy Mouth,False,10,18,['alternative roots rock']
+Beat Conductor,Autonomous Bass Heads,False,0,0,"['bass music', 'miami bass', 'nu electro']"
+Jesus Laughing - Some Things Never Change Version,Mark Lowry,False,5,14,['southern gospel']
+Been There All The Time,Dinosaur Jr.,False,24,41,"['alternative rock', 'lo-fi', 'noise pop', 'noise rock', 'permanent wave', 'power pop', 'shoegaze', 'slacker rock']"
+Fax Me,Supertalented,False,0,0,[]
+Making Up For Lost Time - Footprints In The Sand Album Version,Cristy Lane,False,2,28,['country gospel']
+Lord We Give You All the Praise,The Jackson Southernaires,False,0,7,['praise']
+Sensory Deprivation Adventure,From Autumn To Ashes,False,19,45,"['melodic metalcore', 'metalcore', 'post-hardcore', 'screamo']"
+Tom Dooley,The Kingston Trio,False,40,40,"['american folk revival', 'folk']"
+A Brief History of Shitty Comedy,Patton Oswalt,False,4,20,['comedy']
+Un Ojo Dimos,Barrio Obrero,False,39,43,['gaita zuliana']
+Dying Batteries,Casiotone For The Painfully Alone,False,3,17,"['anti-folk', 'indietronica', 'lo-fi']"
+30 Days In The Hole,Humble Pie,False,14,22,"['album rock', 'blues', 'blues rock', 'classic rock', 'country rock', 'electric blues', 'folk rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'southern rock', 'symphonic rock']"
+A Baby's Born,James Ingram,False,24,39,['quiet storm']
+Cerilene,Sister Hazel,False,13,58,"['neo mellow', 'pop rock', 'post-grunge']"
+Faces,Run–D.M.C.,False,11,24,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+How Does It Feel,Avril Lavigne,False,44,69,"['canadian pop', 'candy pop', 'dance pop', 'pop']"
+Do It to Me,Sasha,False,0,14,[]
+It Makes No Difference Now,Jimmie Davis,False,17,15,"['country gospel', 'traditional country', 'western swing']"
+Hummingbird,Leon Russell,False,34,47,"['blues rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'outlaw country', 'piano rock', 'roots rock', 'singer-songwriter', 'southern rock', 'swamp rock']"
+Where Do We Go Now But Nowhere?,Nick Cave & The Bad Seeds,False,35,61,"['alternative rock', 'permanent wave', 'singer-songwriter']"
+Juliet - Re-Record,The Four Pennies,False,2,32,['british invasion']
+Broken Radio '22,Jesse Malin,False,30,25,['alternative country']
+Amazing Grace,Bill Murk,False,0,0,[]
+Sonho (Dream),Nando Lauria,False,11,35,[]
+Flight To Jordan - Live,Tito Puente,False,2,9,"['afro-cuban percussion', 'jazz puertorriqueno', 'latin jazz', 'mambo', 'musica tradicional cubana', 'salsa']"
+Mother of Greed,Jason & The Scorchers,False,1,11,"['alternative country', 'cowpunk', 'roots rock']"
+I Was Blind But Now I See,Greater Vision,False,5,11,['southern gospel']
+The Wrapper,Marco Beltrami,False,0,6,"['orchestral soundtrack', 'soundtrack']"
+Tule illoin,Fredi,False,0,2,"['classic finnish pop', 'classic iskelma']"
+Ready for the Love,Angela Stewart,False,0,1,[]
+Guardian Angel,Since The Flood,False,1,11,['beatdown']
+You Gotta Go,Fountains Of Wayne,False,2,12,"['pop rock', 'power pop']"
+Why Do You Have To Go,The Dells,False,10,33,"['chicago soul', 'classic soul', 'disco', 'funk', 'quiet storm', 'soul', 'southern soul']"
+Once Again,Del Horno,False,0,0,[]
+Same Old Song and Dance,Aerosmith,False,50,51,"['album rock', 'classic rock', 'hard rock', 'rock']"
+Best Kept Secret,Dons,False,0,6,['latvian pop']
+Tanguero - Instrumental,Laurindo Almeida,False,0,7,"['bossa nova', 'brazilian jazz', 'jazz guitar', 'violao', 'violao classico']"
+Freestyle Ministry - Server Verbals,KRS-One,False,3,19,"['bronx hip hop', 'conscious hip hop', 'east coast hip hop', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'political hip hop']"
+Moving On,Constance Demby,False,0,14,"['healing', 'new age']"
+Love Is An Uphill Climb,David Robertson,False,0,0,[]
+He Dreams Of Spaceships,Lorna,False,1,4,[]
+Stuck On Rewind,Rockit,False,0,5,[]
+Juncales,Juan Carmona,False,0,1,"['flamenco', 'flamenco guitar']"
+Open your Eyes,Call To Preserve,False,0,6,[]
+Corner Story,Del The Funky Homosapien,False,36,34,"['alternative hip hop', 'hip hop', 'oakland hip hop']"
+3 Deuces,Marcus Miller,False,20,38,"['electric bass', 'instrumental funk', 'jazz funk', 'jazz fusion']"
+Ta Min Vals - Take This Waltz,Ebba Forsberg,False,22,27,['swedish singer-songwriter']
+So Lonely,The Police,False,64,76,"['album rock', 'classic rock', 'permanent wave', 'rock']"
+Sin Ti,Anthony Cruz,False,11,37,['salsa']
+Mo lanmou,Patrick Saint-Eloi,False,3,31,"['musique guadeloupe', 'zouk', 'zouk riddim']"
+Follow The Leader,Eric B. & Rakim,False,38,34,"['bboy', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+Room At The Bottom,Vince Guaraldi,False,13,24,"['jazz piano', 'space age pop']"
+Thine Is the Kingdom,Parachute Band,False,0,0,"['ambient worship', 'nz christian']"
+Sonnenfreunde,Carl Crack,False,2,18,"['digital hardcore', 'sound collage']"
+Pamella,Remmy Ongala,False,5,28,['zilizopendwa']
+"I Love You, You Imbecile",Pelle Carlberg,False,8,11,"['svensk indie', 'twee pop', 'uppsala indie']"
+Greasers,Pre,False,1,10,"['noise rock', 'sasscore']"
+Andra sidan,Sofia Karlsson,False,10,22,"['classic swedish pop', 'folkmusik', 'swedish jazz', 'swedish singer-songwriter']"
+Linda Lou,Bob Wills & His Texas Playboys,False,0,19,"['bakersfield sound', 'traditional country', 'western swing']"
+Femme du guerrier - Chant,Les Ogres De Barback,False,16,35,"['french folk pop', 'french reggae', 'french rock']"
+Johnny My Boy - Original,The Ad Libs,False,0,3,"['brill building pop', 'doo-wop', 'rhythm and blues']"
+Hypergasm,Chaotica,False,2,13,['neo-industrial rock']
+Victims of the Occupation,Anne Dudley,False,1,39,"['british soundtrack', 'soundtrack']"
+就是愛妳,David Tao,False,57,62,"['chinese r&b', 'mandopop', 'taiwan pop', 'taiwan singer-songwriter']"
+A quoi ça sert,Julie Zenatti,False,6,14,"['chanson', 'french pop']"
+Falling In Love,Uriah Heep,False,10,25,"['album rock', 'blues rock', 'classic rock', 'hard rock', 'progressive rock', 'symphonic rock']"
+Close To The Well,Ivan Parker,False,0,5,['southern gospel']
+[Hidden Track],Galactic,False,3,22,"['funk rock', 'jam band', 'new orleans funk']"
+See The Lights - 2002 Digital Remaster,Simple Minds,False,45,49,"['album rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock']"
+Dolor,Los Traileros Del Norte,False,6,27,"['musica mexicana', 'norteno']"
+Little Bluebird,Little Milton,False,17,16,"['electric blues', 'memphis soul', 'soul blues', 'southern soul']"
+The Painter,The Rance Allen Group,False,4,27,['gospel']
+Do You Want To,Franz Ferdinand,False,60,60,"['alternative rock', 'dance rock', 'indie rock', 'modern rock', 'rock', 'scottish rock']"
+"Cincinnati, Ohio",Connie Smith,False,15,13,"['classic country pop', 'nashville sound']"
+Ina Your Rights,Aswad,False,1,9,"['reggae', 'roots reggae', 'uk reggae']"
+España Tiene Sabor,Los Niños De Sara,False,4,33,['rumba']
+When The Sun Goes Down,Guitar Slim,False,0,3,"['acoustic blues', 'blues', 'louisiana blues', 'new orleans blues', 'traditional blues']"
+The Son Shines Down On Me,Asleep At The Wheel,False,1,12,['classic texas country']
+時光本是無罪,Sandy Lam,False,8,35,"['c-pop', 'classic mandopop', 'mandopop']"
+Not Missing You,Inspector 9,False,0,0,[]
+Hope For The Fallen,Call To Preserve,False,2,6,[]
+No Rainbow,Deadboy & The Elephantmen,False,15,35,['swamp rock']
+Show Some Sign,The Jackson Southernaires,False,0,4,['praise']
+Little Bar Butterfly,Mae West,False,0,3,['vintage hollywood']
+Too Much Fun,Commander Cody and His Lost Planet Airmen,False,7,19,['country rock']
+Evenglow,David & Steve Gordon,False,5,12,['healing']
+My Butcher Man,Memphis Minnie & Kansas Joe,False,1,11,"['memphis blues', 'traditional blues', 'vintage swing']"
+This Love,Maroon 5,False,81,83,['pop']
+Big Woman,Washboard Sam,False,0,3,"['chicago blues', 'traditional blues', 'washboard']"
+Unforgettable Season,Cut Copy,False,23,53,"['alternative dance', 'australian dance', 'australian electropop', 'electronic rock', 'electronica', 'indietronica', 'neo-synthpop']"
+Somebody Changed the Lock,Tarheel Slim,False,0,1,[]
+Hank and Joe and Me,Johnny Cash,False,16,46,"['arkansas country', 'outlaw country', 'rock']"
+Spanish Nights (Remastered),Michael Stanley Band,False,14,21,['heartland rock']
+Framed - Remastered 2002,The Sensational Alex Harvey Band,False,21,34,['glam rock']
+Far Beyond the Endless,Moist,False,9,12,['swedish synth']
+Lonely,Akon,False,77,76,['dance pop']
+每天愛你多一些,Leon Lai,False,11,25,"['c-pop', 'cantopop', 'classic cantopop']"
+Slide In - Slide Out,Capital Tax,False,0,1,['deep east coast hip hop']
+Talking About It Blues,Otis Taylor,False,1,14,"['acoustic blues', 'country blues']"
+Gaita Pueblera,Gran Coquivacoa,False,38,56,"['classic venezuelan pop', 'gaita zuliana']"
+Sanchez Family,Harry Gregson-Williams,False,10,44,"['british soundtrack', 'orchestral soundtrack', 'soundtrack']"
+Le Beeatch - Phonat Remix,Trafik,False,0,0,[]
+Frank's Plea,Marco Beltrami,False,1,5,"['orchestral soundtrack', 'soundtrack']"
+Quinze mai,Gus Viseur,False,0,2,"['bal-musette', 'jazz accordion']"
+Bricks And Mortar,The Jam,False,17,47,"['mod revival', 'new romantic', 'new wave', 'punk', 'ska revival']"
+Plage De Belle Maison - Île D'yeu-Suite,Thomas Battenstein,False,0,0,[]
+You And Only You,FFH,False,2,10,"['christian alternative rock', 'christian music']"
+Mental Beat,Hanoi Rocks,False,0,8,"['finnish hard rock', 'glam metal', 'glam punk', 'glam rock', 'sleaze rock']"
+Thump Thump Da Box,DJ Phiene,False,0,0,['ghettotech']
+Scars and Souvenirs Intro,Max Stalling,False,1,15,['classic texas country']
+Luna Latina,Néstor Torres,False,8,14,[]
+Cross The Bridge,Beenie Man,False,0,22,"['dancehall', 'jamaican dancehall', 'reggae fusion', 'soca']"
+The Distance,Bon Jovi,False,28,57,"['glam metal', 'rock']"
+Jambalaya (On The Bayou),Johnny Copeland,False,3,18,"['blues', 'electric blues', 'texas blues']"
+Comeback,Eric Burdon,False,0,2,['british blues']
+"Oh! quand je dors, S. 282/2",Franz Liszt,False,0,0,"['classical', 'late romantic era']"
+"Main Theme from Jaws (From ""Jaws"")",John Williams,False,0,3,"['orchestral soundtrack', 'soundtrack']"
+"Mine, All Mine",Jimmy Wakely,False,10,8,"['arkansas country', 'classic oklahoma country', 'cowboy western', 'western swing']"
+The Small Print,Muse,False,47,74,"['alternative rock', 'modern rock', 'permanent wave', 'rock']"
+Termites in the Bathtub,Dntel,False,0,4,"['downtempo', 'experimental synth', 'indie electronica']"
+Easily - Live at Rockpalast 2007,Vivian,False,0,0,[]
+Shut Up,Pretty Boy Floyd,False,4,22,"['canadian metal', 'glam metal', 'sleaze rock']"
+From a Jack to a King,Ned Miller,False,38,39,['nashville sound']
+Crazy,Aerosmith,False,72,73,"['album rock', 'classic rock', 'hard rock', 'rock']"
+Out In The Streets,The Shangri-Las,False,37,53,"['brill building pop', 'classic girl group', 'rock-and-roll']"
+Viimeinen lento,Kaija Koo,False,21,30,"['classic iskelma', 'finnish dance pop', 'finnish pop', 'iskelma', 'suomi rock']"
+Wanted Dead Or Alive,Phil Lewis,False,11,16,[]
+Scrimmage,Gerald Clayton,False,2,11,"['contemporary jazz', 'jazz', 'modern jazz piano', 'straight-ahead jazz']"
+Farenheit 303,Orbital,False,17,41,"['big beat', 'breakbeat', 'electronica', 'intelligent dance music', 'rave']"
+So It Goes,Mister Ries,False,0,0,['ghettotech']
+summer jam,Set Your Goals,False,28,41,"['anthem emo', 'easycore', 'pop punk']"
+India Revisited,Jeff Wahl,False,0,0,"['christmas instrumental', 'instrumental acoustic guitar']"
+Horn Webb - Instrumental,Art Ensemble Of Chicago,False,0,0,"['avant-garde jazz', 'free improvisation', 'free jazz']"
+Contagious,Ill Harmonics,False,0,6,[]
+Star Signs,Leona Naess,False,4,36,"['ectofolk', 'lilith']"
+Rock Around the Christmas Tree,Daniel Johnston,False,17,17,"['alternative rock', 'anti-folk', 'chamber pop', 'countrygaze', 'lo-fi', 'melancholia', 'noise pop', 'outsider']"
+Love Round The Corner,The Motors,False,1,29,"['classic uk pop', 'pub rock']"
+After Hours,Phantom Planet,False,11,32,[]
+Tell Me Why,Smokin' Joe Kubek & Bnois King,False,14,16,"['blues', 'electric blues', 'modern blues', 'power blues-rock']"
+Night Time (Live),Suicide,False,0,4,"['experimental', 'experimental rock', 'no wave', 'noise rock', 'synth punk']"
+Real People - Cybernetic Dub,Apache Indian,False,0,10,['uk dancehall']
+Psihi Mou Moni,Peggy Zina,False,0,3,"['greek pop', 'laiko']"
+So Much Love,The Shangri-Las,False,1,25,"['brill building pop', 'classic girl group', 'rock-and-roll']"
+The Everlasting Gaze - A Static Lullaby,A Static Lullaby,False,1,8,"['post-hardcore', 'screamo']"
+Outta Control - Remix,50 Cent,False,49,45,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']"
+La Vida - Versión Remasterizada 2008,Los Fabulosos Cadillacs,False,48,53,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol', 'ska', 'ska argentino']"
+"Do It, Fluid",The Blackbyrds,False,33,37,"['classic soul', 'funk', 'jazz funk', 'p funk', 'soul jazz']"
+Criteria,Shaggy,False,14,58,"['dance pop', 'pop rap', 'reggae fusion']"
+Missing You,Anthony Watson,False,1,3,[]
+Shed so Many Tears,Johnny Winter,False,0,2,"['blues', 'blues rock', 'classic rock', 'country rock', 'electric blues', 'modern blues', 'texas blues', 'traditional blues']"
+Lixuneanos - Original Mix,Rui Da Silva,False,0,0,"['classic house', 'portuguese electronic']"
+Pretty Little Thing,Dale Hawkins,False,0,1,"['rock-and-roll', 'rockabilly', 'swamp rock']"
+Drunnhvíta Elevator,John Tchicai,False,0,0,"['avant-garde jazz', 'free jazz', 'jazz saxophone']"
+Chile con carne,Gabriel Yared,False,20,46,['french soundtrack']
+Mountain Theme,Bruce Rowland,False,24,39,"['australian classical', 'oceania soundtrack']"
+You Found Me,MxPx,False,11,28,"['christian punk', 'pop punk', 'punk', 'ska', 'ska punk', 'skate punk']"
+Bop Till You Drop,Michael Stanley Band,False,0,7,['heartland rock']
+School Spirit Skit 2,Kanye West,False,46,83,"['chicago rap', 'hip hop', 'rap']"
+Vos Sabes - Versión Remasterizada 2008,Los Fabulosos Cadillacs,False,49,53,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol', 'ska', 'ska argentino']"
+Strangers In The Night,Glen Washington,False,38,40,"['lovers rock', 'old school dancehall', 'reggae', 'roots reggae']"
+Lament for Frankie,Solas,False,8,32,"['celtic', 'irish dance', 'irish folk', 'irish neo-traditional']"
+Good News,The Kingston Trio,True,7,32,"['american folk revival', 'folk']"
+Squanderer,Shriekback,False,0,6,['deep new wave']
+Dos imposibles,Diego Vasallo,False,1,18,[]
+Turning Of A Key,Michael Gettel,False,6,29,"['new age', 'new age piano']"
+Boots The Monkey!,Dora The Explorer,False,8,40,"['cartoon', ""children's music""]"
+Too Shy To Scream,AFI,False,9,22,"['alternative metal', 'nu metal', 'pop punk', 'post-grunge', 'punk', 'screamo']"
+Sugar Buzz,Russell Malone,False,1,16,['jazz guitar']
+Mi Mas Agapas,Angela Dimitriou,False,8,37,"['greek pop', 'laiko']"
+Dame un Besito (Version Salsa),Andy & Lucas,False,6,37,"['latin pop', 'pop flamenco', 'rumba', 'spanish pop']"
+Fiel Enamorado,Estrellas Cubanas,False,0,1,['son cubano clasico']
+She Is,The Fray,False,49,80,"['neo mellow', 'piano rock', 'pop', 'pop rock']"
+Dry Bone Shuffle (Take 3),Blind Blake,False,0,12,"['acoustic blues', 'bahamian folk', 'country blues', 'piedmont blues', 'pre-war blues', 'ragtime', 'traditional blues']"
+Ouverture,Richard Wagner,False,4,6,"['classical', 'german opera', 'german romanticism', 'late romantic era']"
+Gir Dig Mer,Nik & Jay,False,22,49,['danish pop']
+Warfare (feat. Joell Ortiz),Joe Budden,False,6,20,"['battle rap', 'new jersey rap']"
+The Message,Grandmaster Flash,False,34,33,"['bronx hip hop', 'conscious hip hop', 'east coast hip hop', 'hip hop', 'old school hip hop', 'rap', 'turntablism']"
+Games People Play,The Jordanaires,False,0,0,['country gospel']
+These Days,Ayọ,False,19,47,['neo soul']
+Slip Kid,The Who,False,26,42,"['album rock', 'british invasion', 'classic rock', 'hard rock', 'rock']"
+Lead Me To The Cross - Acoustic,Seventh Day Slumber,False,5,8,"['ccm', 'christian alternative rock', 'christian music', 'christian rock']"
+Everybody Loves Me But You,Brenda Lee,False,27,35,"['adult standards', 'easy listening', 'lounge', 'rockabilly']"
+A True,Sugar Minott,False,0,6,"['dub', 'lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Psychopath,Lizzy Borden,False,16,26,"['glam metal', 'speed metal', 'us power metal']"
+Sarapatel Humano,Márcio Faraco,False,7,30,[]
+Abagui Alobi,Patience Dabany,False,1,13,"['gabonese pop', 'zouglou']"
+Last Night - Clean Album Version,Northern State,False,0,0,[]
+Problem Solver,Valient Thorr,False,2,24,['north carolina metal']
+Circumstances,Johnny Copeland,False,0,18,"['blues', 'electric blues', 'texas blues']"
+Mother-In-Law Blues,Little Junior Parker,False,0,1,[]
+Listen Up,Jedi Mind Tricks,False,18,46,"['conscious hip hop', 'philly rap', 'political hip hop']"
+Peace,Billy Higgins,False,0,3,['jazz drums']
+Have Fun Prelude,Speech,False,0,2,['conscious hip hop']
+Dreams - Original,Dan Moretti,False,0,0,[]
+Just Let Me Be In Love,Tracy Byrd,False,21,49,"['contemporary country', 'country', 'country road']"
+Pretend,Shelby Lynne,False,37,58,"['contemporary vocal jazz', 'ectofolk', 'folk', 'lilith']"
+Calm - Live Edit,Circular,False,1,8,"['ambient psychill', 'nordic ambient', 'psychill']"
+Now I Know - NORMAL,Bullethole,False,0,0,[]
+Poker Face,Lady Gaga,False,80,83,"['art pop', 'dance pop', 'pop']"
+Wrong Decision - Instrumental,Vrse Murphy,False,0,0,[]
+Golfshirt Pt. 2,Nerf Herder,False,9,19,"['power-pop punk', 'socal pop punk']"
+Nordmark,Yggdrasil,False,0,2,"['folk metal', 'nordic folk metal', 'viking metal']"
+Rain Down on Me - Tiësto Remix,KANE,False,33,31,"['dutch pop', 'dutch rock']"
+Little Latin Lupe Lu,The Righteous Brothers,False,34,33,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'motown', 'rock-and-roll', 'rockabilly']"
+Youth Club Dance - Demo,The Cortinas,False,0,0,['deep punk rock']
+Party,Rodney O,False,0,8,"['electro', 'miami bass']"
+Stinky Breath,Blingtones,False,0,0,['ringtone']
+"Baila Girl, Todo Hombre Llorando por Ti",Daddy Yankee,False,21,56,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
+啤酒泡泡,Steve Chou,False,17,55,"['classic mandopop', 'mandopop']"
+Why Should I Cry For You,Mariano Yanani,False,0,0,[]
+Test 72,Mush,False,0,0,[]
+You Beat The Hell Outta Me,The Motors,False,10,39,"['classic uk pop', 'pub rock']"
+Oye,Gertrudis,False,8,23,"['indie catala', 'musica catalana', 'rock catala', 'rumba', 'rumba catalana']"
+Irish Medley - Jigs,Jean Carnigan,False,0,1,['folklore quebecois']
+Bang! Bang! - Edited Version,The Knux,False,1,0,[]
+Firehouse Rock,Wailing Souls,False,28,49,"['reggae', 'roots reggae']"
+Ghosts: Second Variation,Albert Ayler,False,8,19,"['avant-garde jazz', 'free jazz', 'jazz saxophone']"
+Olivia,Shinehead,False,3,13,"['reggae fusion', 'uk reggae']"
+Hit My Heart - Radio Edit,JK,False,4,42,"['deep eurodance', 'hip house']"
+Time Travel,Klaus Badelt,False,15,44,"['german soundtrack', 'orchestral soundtrack', 'soundtrack']"
+What Is This,Perfection,False,2,2,[]
+Menutha,Tony Joe White,False,23,49,"['acoustic blues', 'louisiana blues', 'swamp blues', 'swamp pop', 'swamp rock']"
+Expeditions,From Dying Skies,False,1,6,['screamocore']
+Dengoso,Turibio Santos,False,23,34,"['choro', 'violao', 'violao classico']"
+The Christmas Song (Chestnuts Roasting On An Open Fire),Fred Simon,False,16,34,['new age piano']
+The Poet and the Pendulum,Nightwish,False,39,60,"['fantasy metal', 'finnish metal', 'finnish power metal', 'gothic metal', 'gothic symphonic metal', 'opera metal', 'power metal', 'symphonic metal']"
+Like A Hurricane,Eddy Raven,False,6,39,['classic country pop']
+Mathilda,Jay Randall,False,0,1,['swamp pop']
+The Possibilities of Loving You,Francis Dunnery,False,0,5,[]
+Green and Blue,Deep Forest,False,14,29,"['healing', 'new age']"
+Antes - Salsa Version,Obie Bermudez,False,31,64,"['latin pop', 'puerto rican pop']"
+Lazy Day,Herb Alpert & The Tijuana Brass,False,0,9,"['easy listening', 'lounge']"
+Shrivasta,William Coulter,False,3,18,['string folk']
+In Pursuit of the Implicate Order of Cultural Chaos,Mira,False,0,0,[]
+Pathfinders,Elvenking,False,10,20,"['fantasy metal', 'folk metal', 'gothic symphonic metal', 'italian folk metal', 'italian metal', 'italian power metal', 'melodic metal', 'power metal', 'tolkien metal']"
+The Deep Blue Sea (Live),The Irish Rovers,False,3,14,"['canadian celtic', 'irish folk', 'irish pub song', 'shanty']"
+Got to Make Me Love You,Tyrone Taylor,False,2,25,"['deep ragga', 'lovers rock']"
+"Hey Louise - From ""The Jazz Singer"" Soundtrack",Neil Diamond,False,33,51,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']"
+Strassenkrieg,MC Sadri,False,6,14,[]
+Dedicated - 2014 Remaster,Paul Carrack,False,30,26,[]
+City Of Screaming Statues,At The Gates,False,8,24,"['death metal', 'gothenburg metal', 'melodic death metal', 'metal', 'swedish death metal', 'swedish melodeath', 'swedish metal', 'thrash metal']"
+Three Little Words,The Refreshments,False,9,14,['dansband']
+Monkey Junction,Weedeater,False,27,30,"['doom metal', 'drone metal', 'north carolina metal', 'sludge metal', 'stoner metal', 'stoner rock']"
+Shadows,The Evil Genius DJ Green Lantern,False,18,25,['battle rap']
+"Everything I Do (From ""Robin Hood"")",John C. Williams,False,12,38,['classical guitar']
+Train Buffer,Aesop Rock,False,2,13,"['abstract hip hop', 'alternative hip hop', 'conscious hip hop']"
+Skit 2,Rakim,False,0,35,['east coast hip hop']
+Poema do Semba,Paulo Flores,False,32,33,"['kizomba', 'kizomba antigas', 'musica angolana', 'semba']"
+Going Under,DEVO,False,28,37,"['alternative rock', 'art punk', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'post-punk', 'synth punk', 'synthpop', 'zolo']"
+Corcovado,Vince Guaraldi,False,22,61,"['jazz piano', 'space age pop']"
+Bumbo Red,Capleton,False,6,25,"['dancehall', 'lovers rock', 'reggae', 'roots reggae']"
+War Of The Worlds,The London Theatre Orchestra,False,1,13,['theme']
+Red Socks Pugie,Foals,False,36,49,"['alternative dance', 'garage rock', 'indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'neo-synthpop', 'oxford indie', 'shimmer pop']"
+Sarah Palin (I Wanna Lay Pipe) - Remix,John Brown,False,0,0,[]
+No te apartes de mí,Yahir,False,54,52,"['latin arena pop', 'latin pop', 'mexican pop']"
+Going Back To Memphis,Memphis Jug Band,False,1,8,"['acoustic blues', 'appalachian folk', 'jug band', 'memphis blues', 'traditional blues', 'traditional folk']"
+Down The Line - 2001 Digital Remaster,Gregory Isaacs,False,8,23,"['lovers rock', 'reggae', 'roots reggae']"
+African Typic Collection,Sam Fan Thomas,False,30,27,"['makossa', 'zilizopendwa']"
+Tired Of You Clowning,Sunnyland Slim,False,1,22,"['chicago blues', 'delta blues', 'piano blues']"
+Anywhere Anytime (2012),Sara Melson,False,0,3,['deep acoustic pop']
+A Crow Left of the Murder,Incubus,False,39,56,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'modern rock', 'nu metal', 'post-grunge', 'rock']"
+Ice Cream Cone,The Laurie Berkner Band,False,6,36,"[""children's music"", 'kindie rock']"
+Dark Flashes,Brian Keane,False,0,1,['turkish instrumental']
+Moisture,Dishwalla,False,18,53,"['pop rock', 'post-grunge']"
+Cry of the Earth,Cybertribe,False,2,10,[]
+Stack and Pile,Beenie Man,False,0,3,"['dancehall', 'jamaican dancehall', 'reggae fusion', 'soca']"
+Please Baby Blues - Little Junior Parker With Bill Johnson' Blue Flames,Little Junior Parker With Bill Johnson' Blue Flames,False,0,1,[]
+Goody Two Shoes,Adam Ant,False,49,46,"['new romantic', 'new wave', 'new wave pop', 'permanent wave']"
+Shitzzo - Simon Beeston Remix,Marco Polo,False,0,0,[]
+Wonderland,Robin Fox,False,2,23,[]
+I Versus I,Seventh Star,False,0,0,"['christian hardcore', 'florida hardcore']"
+Ellen Disingenuous,BUSDRIVER,False,0,0,"['abstract hip hop', 'alternative hip hop']"
+Plecaciunea Mortii - Maiestrit Version,Negură Bunget,False,0,4,"['atmospheric black metal', 'avant-garde metal', 'balkan folk metal', 'black metal', 'blackgaze', 'pagan black metal', 'romanian black metal', 'romanian metal', 'slavic metal']"
+Me Decidi,Gisselle,False,3,15,['merengue']
+Ace Insurance Man,Bobbie Gentry,False,6,16,[]
+baby Wayo,African Rhythm Messengers,False,1,11,[]
+Sans ton amour,Bonita,False,0,3,[]
+The Ram and the Scorpio,Alphonse Mouzon,False,1,6,['jazz funk']
+San Agustín,Los Amigos Invisibles,False,8,40,"['latin afrobeat', 'latin alternative', 'latin funk', 'latin rock', 'rock en espanol', 'venezuelan indie', 'venezuelan rock']"
+We Are One Light,Aeoliah & Mike Rowlands,False,14,25,[]
+This World Is Not My Home,James Blackwood with The Light Crust Doughboys,False,0,1,[]
+Popovic,Mando Diao,False,4,20,"['dalarna indie', 'swedish garage rock', 'swedish indie rock']"
+Pound a Weed,Mikey Dread,False,1,7,"['dub', 'old school dancehall', 'reggae', 'roots reggae']"
+Puritania,Dimmu Borgir,False,49,52,"['black metal', 'gothic metal', 'melodic death metal', 'metal', 'norwegian black metal', 'norwegian metal', 'power metal', 'speed metal', 'symphonic black metal', 'symphonic metal', 'viking metal']"
+Ragoo,Kings of Leon,False,46,60,"['modern rock', 'rock']"
+Quand On Est Amoureux,Les Hou-Lops,False,11,13,['chanson quebecois']
+I Like Young Girls,Love Jones,False,0,13,['lounge']
+Drop The Hammer,The Gone Jackals,False,11,24,[]
+Tears Falling Down,Charlie Peacock,False,0,4,['deep christian rock']
+Superconstellation - Part 2,:Blacks On :Blondes,False,0,0,[]
+Hard Times,Eastmountainsouth,False,22,33,['acoustic pop']
+Flipside,Bomb Squad,False,0,0,[]
+Softcore,V-Ro,False,37,34,"['zouk', 'zouk riddim']"
+Nastaran,Mohammad Nouri,False,1,25,['classic persian pop']
+Any Way You Want Me To,Jamie Richards,False,11,21,"['classic texas country', 'red dirt']"
+Chega De Sausade - Original Mix,Elizeth Cardoso,False,0,0,"['bossa nova', 'samba', 'velha guarda']"
+Tumba Randy,Anthony Blea Y Su Charanga,False,0,0,[]
+Cendrier,Java,False,14,25,"['french folk pop', 'french reggae', 'french rock']"
+Purple Pygmies,Walter Ego,False,1,9,[]
+Voyagers - Improvisation 12,R. Carlos Nakai,False,4,14,"['native american flute', 'native american traditional', 'navajo']"
+Stop the World and Let Me Off,Patsy Cline,False,27,49,"['country', 'nashville sound']"
+This Is a Gang,Compton's Most Wanted,False,17,49,"['g funk', 'west coast rap']"
+Playing In The Dirt,Joanna Connor,False,1,5,['modern blues']
+Thank you…,Sakuragakuin,False,5,11,"['idol rock', 'j-idol', 'j-pop girl group']"
+Your Chance To Rock,Rodney O,False,12,17,"['electro', 'miami bass']"
+Perfect Moment,Darden Smith,False,19,16,[]
+Wild Talk - Live,D-A-D,False,1,6,"['danish alternative rock', 'danish rock']"
+Seasick,The Bureau De Change,False,0,2,['digital hardcore']
+Tú Robaste Mi Corazón,Selena y los Dinos,False,31,68,['tejano']
+Rainbow Jungle - Dub / Instrumental Reggae Music,Mikey Dread,False,1,12,"['dub', 'old school dancehall', 'reggae', 'roots reggae']"
+Declaration of Independence,Marquez The Greatest,False,7,25,['black comedy']
+Sweet Love,Mary Black,False,8,44,"['celtic', 'irish folk']"
+Salva Mea 2.0 (Above & Beyond Remix),Faithless,False,29,53,"['big beat', 'downtempo', 'electronica', 'trip hop']"
+Wind Beneath My Wings,RyanDan,False,20,34,['operatic pop']
+Black Market Hell - Hidden Track,Aiden,False,6,23,"['horror punk', 'screamo']"
+22 - Acoustic,Lily Allen,False,14,51,"['dance pop', 'electropop', 'neo mellow']"
+Hey Joe - Live,Roy Buchanan,False,31,33,"['acoustic blues', 'blues', 'blues rock', 'electric blues', 'modern blues', 'traditional blues']"
+Parola di Faliero,Inoki,False,5,28,"['italian hip hop', 'italian underground hip hop']"
+Las Hermanas Granaditas,Los Nakos,False,0,10,[]
+Menuet in the Name of Haydn,Maurice Ravel,False,1,4,"['classical', 'impressionism', 'neoclassicism', 'post-romantic era']"
+American Lies,Pennywise,False,28,43,"['punk', 'skate punk', 'socal pop punk']"
+"The Imperial March - From ""Star Wars: The Empire Strikes Back"" / Live",John Williams,False,31,27,"['orchestral soundtrack', 'soundtrack']"
+Mr Big Man,Junior Reid,False,3,15,"['lovers rock', 'old school dancehall', 'reggae', 'reggae fusion', 'roots reggae']"
+Boomerang (Reprise),CIRRUS,False,3,27,"['big beat', 'breakbeat']"
+In My Bed,Amy Winehouse,False,50,63,"['british soul', 'neo soul']"
+Down On My Knees,Ayọ,False,48,47,['neo soul']
+The Wedding Samba (Alternate Take),Edmundo Ros,False,28,34,"['easy listening', 'mambo']"
+Morning Glow,Michael Jackson,False,18,40,"['r&b', 'soul']"
+Slavinka,Edgar de l'Est,False,1,5,[]
+Supreme Girl,The Sterns,False,18,15,['boston rock']
+Hispaniola A,Pheeroan Aklaff,False,0,0,[]
+Te Fuiste en Abril,Palito Ortega,False,33,31,"['cancion melodica', 'mexican rock-and-roll', 'pop romantico', 'ranchera']"
+Yellow Brick Road,Jack Off Jill,False,24,43,['riot grrrl']
+Albo 25,Hevia,False,5,13,"['gaita', 'musica folk asturiana']"
+Dream State,Paul Taylor,False,2,18,"['smooth jazz', 'smooth saxophone']"
+Fungus,Swim,False,0,0,[]
+They Ride By Night,Charles Williams,False,0,0,[]
+逃亡,Stefanie Sun,False,36,51,"['mandopop', 'singaporean mandopop', 'singaporean pop', 'singaporean singer-songwriter']"
+Sirius Calling,Art Ensemble Of Chicago,False,0,1,"['avant-garde jazz', 'free improvisation', 'free jazz']"
+Make the World Go Away - Single Version,Ray Price,False,19,24,"['honky tonk', 'nashville sound', 'traditional country']"
+Telecommunication,Statues,False,0,1,[]
+Olive Oil,Happy Mondays,False,22,38,"['britpop', 'dance rock', 'madchester']"
+Llamado de Emergencia,Daddy Yankee,False,75,81,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
+Assis par terre,Pascal Sangla,False,0,1,['french soundtrack']
+"Soldiers at War Feat. Kon Juan, Big Scoob, Short Nutty, L.V.",Tech N9ne,False,12,33,"['detroit hip hop', 'kansas city hip hop', 'pop rap']"
+女人本色,Sammi Cheng,False,11,45,"['c-pop', 'cantopop']"
+Harder To Breathe,Maroon 5,False,64,83,['pop']
+Clavelitos,Charanga De La 4,False,4,8,"['charanga', 'musica tradicional cubana', 'salsa international']"
+Disco jonki,Dusminguet,False,9,28,"['rock catala', 'rumba catalana']"
+From Tense to Loose to Slack,THE KEYS,False,0,1,[]
+I Say a Little Prayer,Mary Black,False,14,38,"['celtic', 'irish folk']"
+Cold Shot,Stevie Ray Vaughan,False,48,61,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'rock', 'texas blues']"
+Campeones De La Vida,Alejandro Lerner,False,34,39,[]
+Electron libre,Clarisse Lavanant,False,0,7,['breton folk']
+Padam Padam,Marc Perrone,False,18,37,"['accordion', 'french folk']"
+Where Does Rosie Go,Kenny Rogers,False,12,30,"['classic country pop', 'country', 'nashville sound', 'soft rock']"
+Kyotronics,Erik Tronic,False,0,0,[]
+A Puro Dolor,Roberto Perera,False,7,10,[]
+Rock Tha Party,Bombay Rockers,False,44,42,['bhangra']
+Peace With Myself,Nestor Torres,False,0,3,"['jazz flute', 'jazz puertorriqueno']"
+Ihr hated nur - P-Dog Remix,Hecklah,False,0,2,[]
+Soca Mi Nice,Mongo Santamaria,False,0,7,"['afro-cuban percussion', 'boogaloo', 'cuban rumba', 'jazz cubano', 'latin jazz', 'musica tradicional cubana']"
+Essa Marie,Samba Trio,False,0,13,[]
+You Got Me - The Juan Maclean Dub,VHS or Beta,False,0,2,['dance-punk']
+Ode to Billie Joe - Live at Fillmore West,King Curtis,False,0,10,"['jazz blues', 'jazz saxophone', 'soul jazz']"
+Circle 'Round the Moon - Digitally Enhanced Original Recording,Charley Patton,False,0,1,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'pre-war blues', 'traditional blues']"
+Follow Me Up To Carlow,Planxty,False,33,41,"['british folk', 'celtic', 'irish folk', 'uilleann pipes']"
+Mighty Army Band,Gold City,False,4,19,['southern gospel']
+Swan Lake,Brazilian Tropical Orchestra,False,0,0,[]
+Swinging on a Star,Big Dee Irwin,False,28,29,[]
+Happy,Carolyn Arends,False,1,16,['canadian ccm']
+Parasitic Twins,The Dillinger Escape Plan,False,2,10,"['american metalcore', 'mathcore', 'new jersey hardcore', 'new jersey punk', 'post-hardcore']"
+Rain Keeps Falling Down,Jimmy Witherspoon,False,0,4,"['blues', 'jazz blues', 'jump blues']"
+Dame Tu Cariño,Ray Barretto,False,2,25,"['boogaloo', 'latin jazz', 'salsa']"
+Sweet Little Sixteen,Vince Taylor,False,2,5,[]
+We Played a Game,Adolph Hofner,False,0,13,['western swing']
+El Amor de Mi Vida - Instrumental,Israel y Moises,False,0,4,[]
+Behind The Line Of Grace,Karen Peck & New River,False,0,14,['southern gospel']
+Midnight,The Refreshments,False,1,13,['dansband']
+Tunnel Vision,Finest Dearest,False,0,0,[]
+Wish,Brian Littrell,False,17,30,[]
+Me Falta el Aliento,Estopa,False,55,72,"['pop flamenco', 'rumba', 'spanish pop']"
+Idaho Red,Wade Ray,False,2,5,[]
+Fake Tales Of San Francisco,Arctic Monkeys,False,61,78,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']"
+Baby I Need Your Loving,Delroy Wilson,False,5,35,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Big Fella,Slum Village,False,2,12,"['alternative hip hop', 'detroit hip hop', 'hardcore hip hop', 'hip hop']"
+Bajo Un Palmar,Barbarito Diez,False,28,32,"['bolero cubano', 'musica tradicional cubana']"
+First Kiss,David Arkenstone,False,5,25,['new age']
+The Vine,Mr.De',False,0,3,['ghettotech']
+In The Sweet By And By,Deborah Allen,False,1,7,"['classic country pop', 'country dawn']"
+Know Your Friends,Tanto Metro & Devonte,False,3,50,"['dancehall', 'jamaican dancehall']"
+"We Sleep Forever - Live At The Bottom Lounge, Chicago, IL / January 13, 2009",Aiden,False,2,9,"['horror punk', 'screamo']"
+Container,Kaizers Orchestra,False,11,28,"['dark cabaret', 'norwegian alternative rock', 'norwegian rock', 'rogaland indie', 'rogaland musikk']"
+Dash Way Belly,Kiprich,False,0,0,"['dancehall', 'jamaican dancehall']"
+Un Jour Au Cirque: Two Blind Loves,The Marx Brothers,False,0,0,[]
+Perfect Motion - Boys Own Mix,Sunscreem,False,27,27,['classic progressive house']
+Speed of Sound - Live,Coldplay,False,27,23,"['permanent wave', 'pop']"
+Valokeilojen vampyyri,Indica,False,5,13,[]
+Get a Straw,Lady Saw,False,10,31,"['dancehall', 'dancehall queen', 'reggae fusion']"
+No Me Acuerdo,Alejandro Lerner,False,18,47,[]
+In My Life,Boyz II Men,False,18,46,"['boy band', 'contemporary r&b', 'new jack swing', 'r&b', 'urban contemporary']"
+Gotta Mind To Travel,Coco Montoya,False,5,8,"['blues', 'blues rock', 'electric blues', 'modern blues', 'southern rock']"
+Can You Hear The Angels,Virtue,False,6,15,"['gospel', 'praise']"
+Pass The Puck,Two Man Advantage,False,0,3,[]
+分手要狠,Kary Ng,False,27,24,['cantopop']
+Gone To The Movies,Semisonic,False,25,64,"['pop rock', 'post-grunge']"
+Piel Canela - Alternate Mix,Bobby Capo,False,0,5,"['bolero', 'musica tradicional cubana']"
+Long Way Home,Ginny Owens,False,0,3,['christian music']
+Tania,Fruko Y Sus Tesos,False,30,34,"['salsa', 'salsa colombiana']"
+Sin,Nine Inch Nails,False,48,61,"['alternative metal', 'alternative rock', 'cyberpunk', 'electronic rock', 'grunge', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']"
+16mm Dream,Jeremy Fisher,False,1,6,"['canadian indie', 'canadian singer-songwriter']"
+In My Mind - Remix,Play,False,0,1,[]
+"Binaural Presentation - Process And Passion, Pt. 4",Roger Reynolds,False,0,0,['american contemporary classical']
+La Coloreteada,El Tiempo,False,30,39,['grupera']
+Autoroute,Madilu System,False,20,44,"['rumba congolaise', 'soukous', 'zilizopendwa']"
+The Cold Stares Of Dead Eyes,Soul Embraced,False,1,8,"['arkansas metal', 'christian death metal', 'christian hardcore', 'christian metal']"
+Reginella,Rita Chiarelli,False,0,7,['canadian blues']
+Phone Booth - Live,Robert Cray,False,6,14,"['blues', 'blues rock', 'electric blues', 'modern blues', 'soul blues', 'southern rock', 'traditional blues']"
+All Or Nothing - Wonderful World Album Version,Chris Eaton,False,0,20,[]
+Street Crab,Helmet,False,30,53,"['alternative metal', 'alternative rock', 'groove metal', 'grunge', 'industrial metal', 'industrial rock', 'nu metal', 'post-hardcore']"
+15 Minutes Older,Sasha,False,0,1,[]
+Rock the Night,Hellsongs,False,16,27,"['acoustic rock', 'swedish indie folk', 'swedish indie pop']"
+Flamingos,Michael Whalen,False,0,3,[]
+Duck And Run,3 Doors Down,False,47,75,"['alternative metal', 'nu metal', 'post-grunge', 'rock']"
+Under Attack,Ice,False,0,0,['texas latin rap']
+You Hit The Nail On The Head,"Bobby ""Blue"" Bland",False,8,19,"['soul blues', 'southern soul']"
+The Heavenly Place,The Chiffons,False,3,33,"['brill building pop', 'classic girl group', 'doo-wop', 'rock-and-roll']"
+Drifting Away,Faithless,False,37,49,"['big beat', 'downtempo', 'electronica', 'trip hop']"
+Off the Record,Jean Fauque,False,0,0,[]
+Fried Neckbones And Home Fries,Santana,False,8,20,"['blues rock', 'classic rock', 'mexican classic rock']"
+Little Silver Bells,Elton Britt,False,0,12,['traditional country']
+Dear Death Part 2,Emery,False,22,39,"['post-hardcore', 'screamo']"
+"Dad Apologizes - From ""Chicken Little""/Score",John Debney,False,10,41,"['orchestral soundtrack', 'soundtrack']"
+Esto Es Real,Baby Rasta & Gringo,False,12,51,"['reggaeton', 'salsa choke', 'urbano latino']"
+Hammer & a Stone - Live Acoustic,Seven Mary Three,False,16,33,"['alternative metal', 'nu metal', 'post-grunge']"
+Gangster Of Love,Pretty Boy Floyd,False,2,22,"['canadian metal', 'glam metal', 'sleaze rock']"
+Sweet Disposition,The Temper Trap,False,72,69,"['indietronica', 'modern rock', 'shimmer pop']"
+Rollercoasting,Helen Love,False,0,5,"['welsh indie', 'welsh rock']"
+Celos - Salsa Version,Obie Bermudez,False,10,47,"['latin pop', 'puerto rican pop']"
+Stormy Weather - 2024 Mix,Frank Sinatra,False,33,51,"['adult standards', 'easy listening', 'lounge']"
+Les choses,Edgar Bori,False,1,2,['auteur-compositeur-interprete quebecois']
+Maria ( From The Sound Of Music),London Theatre Orchestra,False,0,0,[]
+Zero M2,Benga,False,13,33,"['classic dubstep', 'uk bass']"
+Vanhapoika-Severi,Esa Pakarinen,False,0,23,"['classic finnish pop', 'classic iskelma']"
+Dream Baby Dream,Black Tambourine,False,28,40,"['c86', 'shoegaze', 'tape club', 'twee pop']"
+Simple Twist of Fate,Bob Dylan,False,54,65,"['classic rock', 'country rock', 'folk', 'folk rock', 'rock', 'roots rock', 'singer-songwriter']"
+Hillbillies from Outerspace,The Vaughan Brothers,False,29,46,"['blues', 'blues rock', 'country rock', 'electric blues', 'modern blues', 'southern rock', 'texas blues']"
+Wings Of Love,Zagar,False,5,4,"['hungarian folk', 'hungarian rock', 'magyar alternative']"
+Betrayal Is A Symptom,Thrice,False,26,47,"['post-hardcore', 'screamo']"
+When We Dance,Mariano Yanani,False,0,0,[]
+Fallin in Love Again,Ann Hampton Callaway,False,0,6,['contemporary vocal jazz']
+Manies Manigances,Maurane,False,1,11,"['chanson', 'french pop']"
+13 Jours en France - Arr. for Guitar Duo,Francis Lai,False,27,23,"['classic soundtrack', 'french soundtrack', 'vintage french electronic']"
+Resolutions from The Long Day Closes - Voice,Arthur Sullivan,False,1,14,"['late romantic era', 'operetta', 'victorian britain']"
+God's Own Fool - Scandalon Album Version,Michael Card,False,22,27,[]
+We Don't Care,Sizzla,False,5,3,"['dancehall', 'reggae', 'reggae fusion']"
+Outro,Tunsi,False,0,0,[]
+Around The World,Roger Williams,False,18,31,['easy listening']
+Rowena,Loudon Wainwright III,False,0,9,"['folk', 'singer-songwriter']"
+So Many Reasons,20/20,False,0,2,"['power pop', 'underground power pop']"
+Locust Reign - Live in California,Converge,False,3,17,"['boston hardcore', 'chaotic hardcore', 'mathcore', 'metalcore', 'post-hardcore', 'post-rock', 'sludge metal']"
+Caja de Cerillas,Johannes Linstead,False,4,23,['rumba']
+Anyway Anyhow Anywhere - Stereo Version,The Who,False,29,58,"['album rock', 'british invasion', 'classic rock', 'hard rock', 'rock']"
+Uniform (Scripka Mix),Inspiral Carpets,False,0,8,"['britpop', 'madchester']"
+Sin Ti,Yuridia,False,32,55,"['latin arena pop', 'latin pop', 'mexican pop']"
+Intensity In Ten Cities,Embrace The End,False,4,11,['brutal deathcore']
+Fly High Michelle,Enuff Z'Nuff,False,26,34,"['glam metal', 'underground power pop']"
+Verano traidor,Vilma Palma e Vampiros,False,54,57,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']"
+En La Soledad,Tito Rodriguez,False,2,25,"['charanga', 'latin jazz', 'mambo', 'salsa', 'salsa puertorriquena']"
+One Woman Man,Dave Hollister,False,46,43,"['contemporary r&b', 'new jack swing', 'r&b']"
+Fish,Sportsguitar,False,0,4,['swiss rock']
+Stranger,The True Believers,False,1,8,[]
+Meet Me in the Bathroom,The Strokes,False,50,75,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']"
+Wait Til You See My Smile,Alicia Keys,False,35,68,"['neo soul', 'pop', 'r&b']"
+Children of the Revolution,Killers,False,15,20,[]
+Adnans,Orbital,False,21,40,"['big beat', 'breakbeat', 'electronica', 'intelligent dance music', 'rave']"
+Southbound Blues,Mitch Woods,False,0,12,"['boogie-woogie', 'jump blues']"
+Band Intro/ Pila Song Intro,Max Stalling,False,1,15,['classic texas country']
+Incide,Dark Fortress,False,2,18,"['black metal', 'german black metal', 'melodic black metal']"
+Turn It Up,Jamie Richards,False,0,17,"['classic texas country', 'red dirt']"
+Drop Sacrifice,Liquid Stranger,False,3,10,"['brostep', 'downtempo', 'drill and bass', 'filthstep']"
+Club Tropicana,Los Del Sol,False,0,1,[]
+Welcome 2 Detroit - Album Version (Edited),Trick Trick,False,57,53,['detroit hip hop']
+Common Ground,Moss,False,0,0,[]
+Ninja Tattoo,Shanadoo,False,4,21,['bubblegum dance']
+Outside the Law,Epitaph,False,11,15,"['german hard rock', 'german prog', 'german rock', 'psychedelic blues-rock']"
+Hold Me While I Cry,Irma Thomas,False,0,4,"['classic soul', 'louisiana blues', 'new orleans blues', 'new orleans soul', 'southern soul']"
+"Dryaden (The Dryad), Op. 45, No. 1: The Dryad, Op. 45, No. 1",Jean Sibelius,False,0,14,"['classical', 'finnish classical', 'impressionism', 'post-romantic era']"
+Help Me,Chris Brown,True,32,76,"['r&b', 'rap']"
+I Stand Here Forgiven,Scott Wesley Brown,False,3,31,"['classic praise', 'jesus movement']"
+Krause seine Kreuzpolka,Polkaholix,False,1,7,['polka']
+Susan說,David Tao,False,43,62,"['chinese r&b', 'mandopop', 'taiwan pop', 'taiwan singer-songwriter']"
+Como Nadie Te He Querido,Isabel Pantoja,False,8,20,"['cancion melodica', 'copla', 'latin pop', 'pop romantico']"
+Loving You Too Long,Billy Bragg,False,9,41,"['anti-folk', 'folk punk', 'permanent wave', 'singer-songwriter', 'uk americana']"
+Tragedy in Blue,DJ Harry,False,0,16,[]
+On Independence Day,Anti-Flag,False,7,30,"['punk', 'skate punk']"
+No One Ever Cared For Me Like Jesus,Ivan Parker,False,4,30,['southern gospel']
+Al Doilea Om,Negură Bunget,False,8,23,"['atmospheric black metal', 'avant-garde metal', 'balkan folk metal', 'black metal', 'blackgaze', 'pagan black metal', 'romanian black metal', 'romanian metal', 'slavic metal']"
+Stand Up and Praise Him,Vickie Winans,False,2,16,['gospel']
+One More Chance,Bloc Party,False,32,28,"['alternative dance', 'alternative rock', 'dance-punk', 'indie rock', 'indietronica', 'modern rock', 'neo-synthpop', 'new rave']"
+Ruby Marlowe,Schizoid,False,0,0,['digital hardcore']
+Four,Midge Ure,False,0,12,"['new romantic', 'new wave pop', 'scottish new wave', 'solo wave', 'synthpop']"
+I Saw Three Ships,Kevin Max,False,8,21,[]
+Big Bottom,Spinal Tap,False,30,46,"['comic', 'comic metal', 'parody']"
+You Are the One for Me - Miguel Migs Salted Dub,Roberto De Carlo,False,0,1,[]
+The Sukkubus Lustrate,Belphegor,False,19,40,"['austrian black metal', 'austrian metal', 'black metal', 'brutal death metal', 'death metal', 'symphonic black metal']"
+Fire and Ice,Outerspace,False,9,30,['philly rap']
+See My Friends,Ray Davies,False,5,35,[]
+The Attitude Song (Remastered),Steve Vai,False,29,34,"['instrumental rock', 'metal guitar', 'shred']"
+Jake,J. Peter Robinson,False,0,5,['british soundtrack']
+Smile to Him,Heavenly Lullaby,True,29,46,['lullaby']
+They Came To Boston,The Mighty Mighty Bosstones,False,12,38,"['boston punk', 'boston rock', 'punk', 'ska', 'ska punk', 'skate punk']"
+Nie Wieder - Live Version,Pyranja,False,0,0,['oldschool deutschrap']
+Mi Musica Es Para Ti - Original,Johnny Pacheco,False,0,0,"['charanga', 'salsa']"
+Sanctuary,Sick Of It All,False,19,37,"['crossover thrash', 'hardcore', 'nyhc', 'punk']"
+Strangers In The Night,Orlando Pops Orchestra,False,0,1,['pops orchestra']
+Two Heads One Pillow,Gerald Clayton,False,5,11,"['contemporary jazz', 'jazz', 'modern jazz piano', 'straight-ahead jazz']"
+Pehle Toh Kabhi Kabhi Gham Tha,Naseebo Lal,False,5,14,"['classic pakistani pop', 'sufi']"
+Saints and Sinners - Original Mix,Van Gelder,False,0,0,['carnaval limburg']
+"My Jesus, I Love Thee",Glad,False,4,14,['christian a cappella']
+不要驚動愛情,Sammi Cheng,False,42,40,"['c-pop', 'cantopop']"
+Crimson Wave,Amorphis,False,9,22,"['finnish death metal', 'finnish melodeath', 'finnish metal', 'folk metal', 'gothic metal', 'melodic death metal', 'metal', 'power metal', 'progressive doom', 'symphonic metal', 'viking metal']"
+Io Che Non Vivo Senza Te,Patrick Samson,False,0,11,['vintage french psychedelic']
+Facemelt,FSTZ,False,0,0,[]
+Spaniolandia - Kun Version,Dj Kun,False,0,11,[]
+"An die ferne Geliebte, Op. 98: No. 2, Wo die Berge so blau",Ludwig van Beethoven,False,6,15,"['classical', 'classical era', 'early romantic era', 'german romanticism']"
+Delirio,René Touzet,False,1,13,['cha-cha-cha']
+Novakane Groove,Black Sheep,False,5,16,"['east coast hip hop', 'queens hip hop']"
+Here Swing Sing,Kooii,False,0,1,['australian reggae fusion']
+Cuando Calienta El Sol,Pablo Montero,False,12,44,"['latin pop', 'mariachi', 'ranchera']"
+Alovi,Stefon Harris,False,1,11,['jazz vibraphone']
+Whatever Lies Will Help You Rest,The Ataris,False,12,26,"['emo', 'pop punk', 'pop rock', 'skate punk']"
+Joy In The Journey - The Final Word Album Version,Michael Card,False,20,27,[]
+Indiscreet,Roger Williams,False,0,28,['easy listening']
+Healing of All Nations,Yami Bolo,False,1,8,"['deep ragga', 'lovers rock', 'modern reggae', 'reggae', 'roots reggae']"
+Guararé,Ray Barretto,False,41,39,"['boogaloo', 'latin jazz', 'salsa']"
+Estate,Eldar Djangirov,False,4,7,"['contemporary post-bop', 'modern jazz piano']"
+Downstream,Broadcast,False,0,4,[]
+Bridge To Canada,Noisettes,False,8,28,['british soul']
+Deep into the Day,Zuma,False,0,1,[]
+Love Shelter,Sundial Aeon,False,9,12,"['ambient psychill', 'progressive breaks', 'psychill']"
+La Excepción,Gustavo Cerati,False,49,73,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']"
+"Precious Lord, Take My Hand - Cajun Hymns Album Version",Jo-El Sonnier,False,1,9,"['cajun', 'swamp pop', 'zydeco']"
+Guaguancó Raro,"Ricardo ""Richie"" Ray",False,25,50,"['boogaloo', 'salsa international']"
+The Tennessee Waltz - 2024 Remastered,The Fontane Sisters,False,1,13,"['deep adult standards', 'vocal harmony group']"
+Breathe Me in (Intro),Candlebox,False,32,42,"['alternative metal', 'alternative rock', 'grunge', 'nu metal', 'post-grunge']"
+Group Sex,Circle Jerks,False,21,46,"['hardcore punk', 'punk']"
+Ordinary Lives,Peter Hunnigale,False,4,23,"['lovers rock', 'uk reggae']"
+Sugar Daddy,Tyrone Davis,False,25,35,"['chicago soul', 'southern soul']"
+State of Emergency,Nick Jonas & The Administration,False,21,39,['post-teen pop']
+Jezebel - Stories Album Version,Barbara Fairchild,False,0,1,"['arkansas country', 'classic country pop', 'country gospel']"
+Contours,Jeff Johnson,False,0,0,[]
+Is It Love,Gang Of Four,False,23,25,"['alternative rock', 'art punk', 'dance rock', 'funk rock', 'post-punk', 'punk', 'uk post-punk']"
+"Aberdeen, Mississippi Blues",Bukka White,False,5,6,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'traditional blues']"
+God Rest Ye Merry Gentlemen,Hot Club of Detroit,False,9,13,['gypsy jazz']
+Schwarzarbeit,Geier Sturzflug,False,4,10,"['austropop', 'classic schlager', 'german rock', 'neue deutsche welle', 'ostrock']"
+Forgiveness - Love Life Album Version,Charlie Peacock,False,2,10,['deep christian rock']
+Let It Rain,Roberto Roena Y Su Apollo Sound,False,3,26,['salsa']
+The Burden of Hope,Jars Of Clay,False,2,16,"['ccm', 'christian alternative rock', 'christian music']"
+Smile Jamaica - Single Version,Bob Marley & The Wailers,False,42,75,"['reggae', 'roots reggae']"
+Angel Band,Porter Wagoner,False,0,0,"['classic country pop', 'country gospel', 'nashville sound']"
+Reception,Safety or Numbers,False,0,1,[]
+We Ride,Rihanna,False,63,75,"['barbadian pop', 'pop', 'urban contemporary']"
+This Train,The Winans,False,5,25,['gospel']
+Million Gal,Beenie Man,False,15,30,"['dancehall', 'jamaican dancehall', 'reggae fusion', 'soca']"
+Real Love,The Smashing Pumpkins,False,27,66,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'rock', 'spacegrunge']"
+Hidden Documents,Alexandre Desplat,False,6,21,"['french soundtrack', 'orchestral soundtrack', 'soundtrack']"
+Al Svartr (The Oath),Emperor,False,28,41,"['black metal', 'metal', 'norwegian black metal', 'norwegian metal', 'symphonic black metal', 'symphonic metal', 'technical black metal']"
+New Pin - Edit,Oceansize,False,0,2,['progressive alternative']
+Tou't moun sou do,Daan Junior,False,14,39,['kompa']
+Govinda,ātman,False,8,22,[]
+Spaceman,The Killers,False,61,71,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']"
+Empress So Divine,Warrior King,False,18,37,"['lovers rock', 'modern reggae', 'old school dancehall', 'reggae', 'riddim', 'roots reggae']"
+Terapia De Amor Intensiva - Remasterizado 2007,Soda Stereo,False,41,65,"['argentine rock', 'latin alternative', 'latin rock', 'post-punk argentina', 'rock en espanol', 'ska argentino']"
+Haunting - Rotersand Rework,Lore,False,3,2,[]
+English Summer Rain,Placebo,False,41,64,"['alternative rock', 'britpop', 'permanent wave', 'rock']"
+Infidel,Delta 9,False,1,15,"['speedcore', 'terrorcore']"
+Beautiful Brown Eyes,Jimmy Wakely,False,0,0,"['arkansas country', 'classic oklahoma country', 'cowboy western', 'western swing']"
+Lies Of Hate,Soul Asylum,False,3,19,"['alternative rock', 'grunge', 'permanent wave', 'pop rock', 'post-grunge']"
+Intro Oye (Live Version),Gertrudis,False,0,12,"['indie catala', 'musica catalana', 'rock catala', 'rumba', 'rumba catalana']"
+Musical Episode - Edit,Horace Andy,False,3,18,"['dub', 'reggae', 'roots reggae']"
+My Four Reasons,Howard Armstrong,False,1,7,[]
+Thank You Lord,Horace Andy,False,5,11,"['dub', 'reggae', 'roots reggae']"
+Eternamente Ámame,Miguel Gallardo,False,14,52,"['pop romantico', 'ranchera']"
+Three Is a Crowd,Rory Block,False,0,9,"['acoustic blues', 'country blues', 'modern blues']"
+On Bended Knee,Boyz II Men,False,75,73,"['boy band', 'contemporary r&b', 'new jack swing', 'r&b', 'urban contemporary']"
+I see the boys of summer,Richard Burton,False,5,27,"['drama', 'poetry']"
+Niev nietch nievitch - Instrumental,Les Ogres De Barback,False,4,28,"['french folk pop', 'french reggae', 'french rock']"
+Candy Man,Hot Tuna,False,10,31,"['blues rock', 'country rock', 'electric blues', 'jam band', 'psychedelic rock', 'roots rock']"
+Cooler Than You,Diesel Boy,False,10,27,"['melodic hardcore', 'ska punk', 'skate punk']"
+Summer Dying Fast,Cradle Of Filth,False,23,38,"['black metal', 'british black metal', 'gothic black metal', 'gothic metal', 'metal', 'symphonic black metal', 'symphonic metal', 'vampiric black metal']"
+Snapshot - Robin M. Instrumental,LadyBug,False,4,3,[]
+Taryn's Deepest Fear - 2015 Remaster,Angelo Badalamenti,False,3,14,"['dark jazz', 'soundtrack']"
+The Frail,Nine Inch Nails,False,41,61,"['alternative metal', 'alternative rock', 'cyberpunk', 'electronic rock', 'grunge', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']"
+Still,Jim Chappell,False,0,4,[]
+Caricia Y Herida,Flor Silvestre,False,0,6,"['mariachi', 'ranchera']"
+Next Time,Nadine Renee,False,4,4,[]
+You Feel Good All Over (Rerecorded),T.G. Sheppard,False,1,18,"['classic country pop', 'country', 'country rock']"
+"This Melody - Live à l’Opéra National de Paris, Palais Garnier, 2012",Julien Clerc,False,4,22,['chanson']
+Dixie,Hank Penny and The Lincoln Penny Orchestra,False,0,0,[]
+Commercial Reign,Inspiral Carpets,False,20,17,"['britpop', 'madchester']"
+Wake,Dirty Skirts,False,0,2,[]
+Monde de fou,Suburbs,False,0,3,[]
+I Never Came,Queens of the Stone Age,False,8,23,"['alternative metal', 'alternative rock', 'grunge', 'modern rock', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']"
+Hourglass - Edited,Borialis,False,8,31,"['rap metalcore', 'rap rock']"
+Complicate It,Smartbomb,False,0,2,[]
+You Can Still Be Free,Savage Garden,False,33,66,"['boy band', 'dance pop', 'pop rock']"
+Indian Love Call,Slim Whitman,False,31,35,"['cowboy western', 'yodeling']"
+Isla del Luna,Lisa Lynne,False,9,23,"['celtic harp', 'healing', 'new age']"
+冷靜,Stephy Tang,False,14,22,['cantopop']
+Dancing to a Standstill,The Black Velvet Band,False,0,9,[]
+Joy To The World,George Frideric Handel,False,18,32,"['baroque', 'classical', 'early music', 'english baroque', 'german baroque']"
+Ftei O Erotas,Angela Dimitriou,False,17,30,"['greek pop', 'laiko']"
+Hoochie Coochie Man - Live,The Jeff Healey Band,False,3,8,"['blues', 'blues rock', 'canadian blues', 'country rock', 'electric blues', 'modern blues']"
+The Second Summer Of Love,Danny Wilson,False,28,26,"['new wave pop', 'scottish new wave', 'sophisti-pop']"
+Another Long One,Shawn Colvin,False,13,30,"['austin singer-songwriter', 'ectofolk', 'folk', 'lilith', 'new wave pop', 'singer-songwriter']"
+Oh My God - Album Version (Edited),Sticky Fingaz,False,2,30,['hardcore hip hop']
+"Bach, JS: Prelude and Fugue in C Major, BWV 531: Prelude",Johann Sebastian Bach,False,0,6,"['baroque', 'classical', 'early music', 'german baroque']"
+"Piano Sonata No. 9 in D Major, K. 311: I. Allegro con spirito",Wolfgang Amadeus Mozart,False,5,30,"['classical', 'classical era']"
+Ever Be,Korn,False,33,50,"['alternative metal', 'funk metal', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']"
+Atmosphere Station,James Horner,False,19,38,"['orchestral soundtrack', 'soundtrack']"
+Go To Hell,Prozak,False,7,24,['horrorcore']
+Smile,Xcultures,True,0,6,[]
+Yesterdays,Percy Faith & His Orchestra,False,0,0,"['easy listening', ""man's orchestra""]"
+Walk Away,Tantric,False,9,32,"['alternative metal', 'nu metal', 'post-grunge']"
+Shadows That Move,Mastodon,False,21,29,"['alternative metal', 'atlanta metal', 'metal', 'progressive groove metal', 'progressive sludge', 'sludge metal', 'stoner metal', 'stoner rock']"
+Moon River - Original,Jerry Butler,False,0,0,"['chicago soul', 'classic soul', 'motown', 'philly soul', 'soul']"
+La Plus bath des javas,Yvette Horner,False,9,28,['bal-musette']
+Mountains Of Mourne,The Irish Tenors,False,8,24,['irish ballad']
+Kite - Live From Sydney,U2,False,31,33,"['irish rock', 'permanent wave', 'rock']"
+"4 Sea Interludes, Op. 33a: IV. Storm",Benjamin Britten,False,0,0,"['british modern classical', 'classical', 'early modern classical', 'neoclassicism']"
+Kick out the Jams,Rage Against The Machine,False,38,63,"['alternative metal', 'alternative rock', 'conscious hip hop', 'funk metal', 'hard rock', 'nu metal', 'political hip hop', 'post-grunge', 'rap metal', 'rap rock', 'rock']"
+Never Forget Me,Bone Thugs-N-Harmony,False,14,37,"['gangster rap', 'hip hop', 'ohio hip hop', 'rap']"
+Me And My Buddy,Jazz Gillum,False,0,2,"['chicago blues', 'country blues', 'harmonica blues']"
+Murder Academy,Ultraviolence,False,0,10,[]
+I Need You Now - Cahill Club Mix,Agnes,False,11,14,"['swedish electropop', 'swedish idol pop', 'swedish pop']"
+Ukkosenjumalan poika - Live At The Astoria,Moonsorrow,False,7,26,"['black metal', 'finnish metal', 'folk black metal', 'folk metal', 'greek metal', 'nordic folk metal', 'pagan black metal', 'symphonic black metal', 'viking metal']"
+Illuminate,Orbital,False,36,36,"['big beat', 'breakbeat', 'electronica', 'intelligent dance music', 'rave']"
+Hey Daddy,Korn,False,48,72,"['alternative metal', 'funk metal', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']"
+Kisha - Album Version (Edited),Lil Wayne,False,4,19,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']"
+Amber Changing (Demo),Rise Against,False,19,50,"['alternative metal', 'chicago hardcore', 'chicago punk', 'hardcore punk', 'modern rock', 'pop punk', 'post-grunge', 'punk']"
+It Goes On,20/20,False,1,3,"['power pop', 'underground power pop']"
+Something Girls,Adam Ant,False,13,46,"['new romantic', 'new wave', 'new wave pop', 'permanent wave']"
+Pink World,Planet P Project,False,8,17,[]
+Soul Deep,The Box Tops,False,35,33,"['bubblegum pop', 'classic garage rock', 'folk rock', 'merseybeat', 'psychedelic rock', 'rock-and-roll']"
+Keepin It Real (Skit),Rated R,False,0,16,[]
+Face the Ashes,Gob,False,7,33,"['canadian pop punk', 'canadian punk', 'skate punk', 'vancouver punk']"
+The Moon And I - Ordinary Day Album Version,Jeff & Sheri Easter,False,0,4,"['family gospel', 'southern gospel']"
+Amor de Cabaret (with Río Roma),La Sonora Santanera,False,46,66,"['bolero', 'bolero mexicano', 'tropical']"
+Young Boy Blues,JennyAnyKind,False,0,2,[]
+Drop of Rain,Tweeterfriendly Music,False,0,0,[]
+Stickin In My Eye,NOFX,False,47,53,"['punk', 'skate punk', 'socal pop punk']"
+Rosemary Recalls,Bruce Rowland,False,21,39,"['australian classical', 'oceania soundtrack']"
+Sudanese Dance,Xcultures,False,1,6,[]
+Ota Kiinni,Murskahumppa,False,0,0,[]
+Wanna Be A Player,Heavy D,False,8,37,"['contemporary r&b', 'new jack swing', 'r&b', 'reggae fusion']"
+Where The Thunder Roars - Tales Of Wonder Album Version,Whiteheart,False,8,24,"['christian metal', 'deep christian rock']"
+All Rise,Scott Wesley Brown,False,3,31,"['classic praise', 'jesus movement']"
+Our Love is Here to Stay,Pery Ribeiro,False,0,2,"['bossa nova', 'velha guarda']"
+Para Milladoiro,Susana Seivane,False,1,9,"['gaita', 'galician folk', 'spanish folk']"
+Snowball,Test Icicles,False,4,27,['dance-punk']
+Going Down Slow,Mance Lipscomb,False,0,14,"['country blues', 'texas blues', 'traditional blues']"
+Charisma Remixed,Sven Tasnadi,False,4,2,['leipzig electronic']
+Silent Hill,Moss,False,3,28,"['drone', 'dutch indie', 'dutch indie rock']"
+Openbare Weg,Mira,False,5,17,['kleinkunst']
+Choro - Remastered 1998,Vince Guaraldi,False,20,40,"['jazz piano', 'space age pop']"
+Spontanous Combustion,Ellen McIlwaine,False,1,8,[]
+Hate,Organized Konfusion,False,6,32,"['alternative hip hop', 'hardcore hip hop', 'jazz rap', 'queens hip hop']"
+Ma Louise,Maurice Chevalier,False,0,7,"['cabaret', 'vintage chanson', 'vintage hollywood', 'ye ye']"
+Mangos,Kai Winding,False,6,35,"['jazz trombone', 'space age pop']"
+President Johnson - Original Mix,Citizen Kaned,False,0,7,[]
+WKYA (Drop),Redman,False,9,37,"['east coast hip hop', 'hardcore hip hop', 'new jersey rap', 'wu fam']"
+Lead Me Lord,The Brooklyn Tabernacle Choir,False,16,19,['classic praise']
+A Distant Voice,Sonny Simmons,False,1,3,['jazz saxophone']
+Inside Job,Pearl Jam,False,34,51,"['alternative metal', 'alternative rock', 'classic rock', 'grunge', 'hard rock', 'permanent wave', 'rock']"
+Dearly Beloved,Norrie Paramor,False,0,1,"['easy listening', 'space age pop']"
+Orgofart,Descendents,False,8,29,"['hardcore punk', 'punk', 'skate punk']"
+The Look Of Love,Gary Hobbs,False,0,0,['tejano']
+Bitch Is Back,L.A. Guns,False,25,43,"['glam metal', 'hard rock', 'sleaze rock']"
+Born and Raised In Compton,DJ Quik,False,42,49,"['g funk', 'popping', 'west coast rap']"
+Bulgarian Dream - Feat. Boika Prissadova,Kiril Valeri,False,0,0,[]
+Naked Albino,Bare Jr.,False,1,16,[]
+Sweet by and By,The Jordanaires,False,0,1,['country gospel']
+Christlike Roche,The Roches,False,2,14,['folk rock']
+You Rascal You,Bob Margolin,False,0,1,"['acoustic blues', 'blues', 'electric blues', 'modern blues', 'power blues-rock']"
+Medicate Myself,The Verve Pipe,False,7,38,"['pop rock', 'post-grunge']"
+Biding Her Time,Bob Neuwirth,False,17,16,['alternative roots rock']
+Brasas Vivas,Nelson Ned,False,1,25,"['bolero', 'mexican rock-and-roll', 'pop romantico', 'ranchera']"
+Sympathy,Mark Ashton,False,0,1,[]
+In This Life,Cama,False,0,0,[]
+Cowboy Ways,James Hunter,False,0,0,[]
+The Emperor Falls,John Wesley,False,0,2,[]
+Setanta matins,élena,False,0,6,[]
+Crazy Mixed up World - Remastered,Faye Adams,False,0,4,['rhythm and blues']
+Superconfidential - Top Billin Inspiration Instrumental,CLP,False,0,0,[]
+James (Hold the Ladder Steady),Sue Thompson,False,12,35,['deep adult standards']
+It Makes No Difference Now,Billie Jo Spears,False,6,13,['classic country pop']
+Spanish Grease,Willie Bobo,False,43,40,"['afro-cuban percussion', 'boogaloo', 'latin jazz']"
+I Think My Wife Is Running Around On Me (Taco Hell),Tim Wilson,False,1,13,[]
+Do You Finally Need A Friend,Terry Callier,False,8,32,[]
+Setting Fire to Sleeping Giants,The Dillinger Escape Plan,False,37,41,"['american metalcore', 'mathcore', 'new jersey hardcore', 'new jersey punk', 'post-hardcore']"
+Twist and Shout,The Shangri-Las,False,1,9,"['brill building pop', 'classic girl group', 'rock-and-roll']"
+Sabor Guajiro,Roberto Torres,False,6,11,"['charanga', 'latin jazz', 'musica tradicional cubana', 'salsa']"
+Crossfire,Stevie Ray Vaughan,False,48,55,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'rock', 'texas blues']"
+Human Cannonball,Loudon Wainwright III,False,3,17,"['folk', 'singer-songwriter']"
+Oute Ena Efharisto,Despina Vandi,False,1,3,"['greek pop', 'laiko']"
+Spin,Scarlet's Remains,False,11,29,"['deathrock', 'gothic rock']"
+Burning In The Aftermath,The Suicide Machines,False,15,42,"['punk', 'ska', 'ska punk', 'skate punk']"
+In a Subtle Way,Jacob Young,False,0,2,"['ecm-style jazz', 'jazz guitar', 'norwegian jazz']"
+Human Being,New York Dolls,False,23,35,"['early us punk', 'glam punk', 'glam rock', 'protopunk', 'punk']"
+The More I See You,Eliane Elias,False,29,34,"['bossa nova', 'brazilian modern jazz', 'contemporary vocal jazz', 'jazz pop', 'piano mpb', 'vocal jazz']"
+Nashville Parthenon,Casiotone For The Painfully Alone,False,23,40,"['anti-folk', 'indietronica', 'lo-fi']"
+Certain Things We Do,Lost Boyz,False,8,39,"['east coast hip hop', 'queens hip hop']"
+Cocain Ducks,Ec8or,False,10,11,"['breakcore', 'digital hardcore']"
+Glory Be,R.L. Burnside,False,26,48,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'traditional blues']"
+Myth Takes,!!!,False,31,34,"['alternative dance', 'dance rock', 'dance-punk', 'neo-synthpop', 'new rave', 'sacramento indie']"
+Someone To Watch Over Me,Frank Chacksfield,False,0,0,"['easy listening', ""man's orchestra""]"
+Just As Much As Ever,Bert Kaempfert,False,3,39,"['ballroom', 'easy listening']"
+Hard Times,Run–D.M.C.,False,34,49,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+Filipino Baby,Hank Locklin,False,0,0,['nashville sound']
+The Boss,Lady May,False,0,0,[]
+Escapist,Nightwish,False,33,32,"['fantasy metal', 'finnish metal', 'finnish power metal', 'gothic metal', 'gothic symphonic metal', 'opera metal', 'power metal', 'symphonic metal']"
+The Cube - Live,S.U.P,False,0,0,[]
+Witch Weed - Live,Bongzilla,False,6,19,"['doom metal', 'drone metal', 'sludge metal', 'stoner metal', 'stoner rock']"
+(Bloody Paw on the) Kill Floor,BUSDRIVER,False,7,34,"['abstract hip hop', 'alternative hip hop']"
+Rain and Snow,Pentangle,False,15,25,"['british folk', 'folk rock', 'psychedelic folk']"
+Beyond the Light,Aberdeen,False,0,0,"['c86', 'tape club', 'twee pop']"
+Gerra De De,DJ Dips,False,33,30,['bhangra']
+Inolvidable,Bebo Valdés,False,43,54,"['cha-cha-cha', 'jazz cubano', 'latin jazz', 'musica tradicional cubana']"
+Miracle,Bizarre Inc,False,0,8,"['classic house', 'diva house', 'hardcore techno', 'hip house']"
+Not Buried Deep Enough (Remastered 2017),The Gone Jackals,False,0,0,[]
+U Killed It,Lily Allen,False,24,67,"['dance pop', 'electropop', 'neo mellow']"
+I Wish My Mother Was Here,Byther Smith,False,0,6,"['blues', 'electric blues']"
+Voices On The Corner,Jason Miles,False,0,3,[]
+Give Me 40 Acres (To Turn This Rig Around),Willis Brothers,False,2,12,['truck-driving country']
+Get Back Down - Original,Boogie Pimps,False,0,0,[]
+Have Yourself A Merry Little Christmas,Hem,False,29,26,"['ectofolk', 'lilith']"
+Retratos-Ernesto Nazareth - Instrumental,Laurindo Almeida,False,1,16,"['bossa nova', 'brazilian jazz', 'jazz guitar', 'violao', 'violao classico']"
+The Owl and the Pussy-Cat,Igor Stravinsky,False,0,6,"['classical', 'early modern classical', 'neoclassicism', 'russian modern classical']"
+Same Man - Radio Edit,DJ Delicious,False,34,35,[]
+Until You Love Someone,Dean Martin,False,4,17,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']"
+Nutty Block,Rodney-O & Joe Cooley,False,5,28,"['bass music', 'electro', 'miami bass']"
+Part One From Triomusic,STRATA,False,0,0,[]
+Set You Free This Time (Live),Gene Clark,False,0,1,"['baroque pop', 'cosmic american', 'country rock', 'singer-songwriter']"
+Hai Shava,Malkit Singh,False,0,1,"['bhangra', 'classic bhangra']"
+Stream,Suzanne Ciani,False,0,9,"['modular synth', 'new age', 'spectra']"
+Deform (live),The Berzerker,False,1,21,"['australian metal', 'cybergrind', 'deathgrind']"
+Spooks In Space,Perrey and Kingsley,False,11,27,"['moog', 'vintage french electronic', 'zolo']"
+Wicker Chair,Kings of Leon,False,28,40,"['modern rock', 'rock']"
+"Forming - Live at the Starwood, December 3, 1980",Germs,False,2,15,"['early us punk', 'hardcore punk', 'punk']"
+Too Much Saturn,Francis Dunnery,False,13,15,[]
+Driving Home for Christmas,Chris Rea,False,78,74,"['soft rock', 'sophisti-pop']"
+Make Me Over v1.1,Vickie Winans,False,0,0,['gospel']
+Auguri cha cha,Bob Azzam,False,2,27,['arab groove']
+Kassie Jones,Alice Stuart,False,0,0,[]
+Broken-Down Merry-Go-Round,Jimmy Wakely,False,0,0,"['arkansas country', 'classic oklahoma country', 'cowboy western', 'western swing']"
+Tonight Will Be Alright,Lionel Richie,False,23,69,['soft rock']
+Caught In a Dream,Tesla,False,25,29,"['album rock', 'glam metal', 'hard rock', 'sacramento indie']"
+La Culpa,Andy CM,False,0,0,[]
+Sohna Nee Sohna Data,Faiz Ali Faiz,False,0,0,"['qawwali', 'sufi']"
+Floating - 2012 Remaster,Blue Rodeo,False,11,40,"['canadian rock', 'country rock']"
+High Tide,Richard Souther,False,3,29,[]
+Hell,Foo Fighters,False,36,69,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']"
+Waiting Phase One,Porcupine Tree,False,24,35,"['progressive metal', 'progressive rock']"
