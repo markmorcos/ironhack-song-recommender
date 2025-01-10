@@ -4,8 +4,8 @@ import pandas as pd
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import time
+from sklearn.cluster import KMeans
 import streamlit as st
-import pickle
 
 def scrape_billboard_hot_100():
     response = requests.get("https://www.billboard.com/charts/hot-100/")
@@ -176,8 +176,8 @@ def get_song_recommendations(song_title, artist_name, n_recommendations=5):
         return None
 
     # Run KMeans clustering on the result from spotify
-    kmeans = pickle.load(open('models/kmeans.pkl', 'rb'))
-    cluster = kmeans.predict(spotify_info[["popularity", "album_popularity"]])
+    kmeans = KMeans(n_clusters=3, random_state=42)
+    cluster = kmeans.fit_predict(df[['popularity', 'album_popularity']])
 
     # Get songs from the same cluster
     recommendations = df[df['cluster'] == cluster]
