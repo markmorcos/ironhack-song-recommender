@@ -44,7 +44,11 @@ def show_landing_page():
     
     # Recommend button
     if st.button("Recommend!", type="primary"):
-        if song_input and artist_input:
+        if not song_input:
+            st.warning("Please enter a song title")
+        elif not artist_input:
+            st.warning("Please enter an artist")
+        else:
             try:
                 recommendations = get_song_recommendations(song_input, artist_input)
                 
@@ -56,8 +60,6 @@ def show_landing_page():
                     st.error("No recommendations found. Please try a different song.")
             except Exception as e:
                 st.error(f"An error occurred: {str(e)}")
-        else:
-            st.warning("Please enter a song title")
     
     if st.button("Favorites"):
         st.session_state.page = 'favorites'
